@@ -1,0 +1,2439 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: res/layout/log_dialog_detail.xml
+SHA1-Digest: fKkzP4RMjw6p4Q/58JCaQyVR+0A=
+
+Name: res/drawable-hdpi-v4/thumb_monster_145r_phantom.png
+SHA1-Digest: Ad7lvkmBVRvyyI33tbrazaBFv7I=
+
+Name: res/drawable-mdpi-v4/monster_125_harpy.png
+SHA1-Digest: y9vIdKE54D6068JK+t0ljk3GEd4=
+
+Name: res/drawable-mdpi-v4/monster_141_zombie.png
+SHA1-Digest: j6TQg73BvPc/+vPxnTKuI4R20U4=
+
+Name: res/drawable-hdpi-v4/thumb_monster_168_hobgoblin.png
+SHA1-Digest: Qz0GwZ9ew4eEn7aF6s2JAcHmYBo=
+
+Name: res/xml/preference.xml
+SHA1-Digest: CfO2a0b6wuZLaTKShHNwsNGb5zM=
+
+Name: res/drawable-mdpi-v4/monster_041_giant_rat.png
+SHA1-Digest: 0vq8QaUIQcuI+KsKksiYD8LJAVA=
+
+Name: res/drawable-hdpi-v4/thumb_monster_091_monolith.png
+SHA1-Digest: cRfZEcaIeiG26KOpVH/H9SiMMkk=
+
+Name: res/drawable-mdpi-v4/monster_149_lich.png
+SHA1-Digest: WZrbWQZeWexk5RAAQyZZVhISRw0=
+
+Name: res/drawable-hdpi-v4/thumb_monster_125_harpy.png
+SHA1-Digest: Q+X+pv8G5VcyThaCLMwY0r8uMlg=
+
+Name: res/drawable-hdpi-v4/char123_actor132b.png
+SHA1-Digest: pY5YOZOo72emoTND4ATuiRClVDU=
+
+Name: res/layout/edge_of_town_adventuring.xml
+SHA1-Digest: /Yw/ZgIYPqW344wskFmu2S1mW84=
+
+Name: res/drawable-hdpi-v4/thumb_monster_014_monotaur.png
+SHA1-Digest: pPTxiUs3V1oJfXX6+t3iGZaz2H8=
+
+Name: res/drawable-hdpi-v4/thumb_monster_121_giant_bat.png
+SHA1-Digest: lgcbBXTymUU6/wwzW8Jz85l+3xQ=
+
+Name: res/drawable-mdpi-v4/monster_052_orc.png
+SHA1-Digest: 1jQNh8WQZ5pCREm6ioiZMwYN2yU=
+
+Name: res/drawable-mdpi-v4/monster_014_monotaur.png
+SHA1-Digest: NXZGDh6BfLFJZelqNxohpxTa0LA=
+
+Name: res/drawable-hdpi-v4/char027_actor31.png
+SHA1-Digest: E+pcPxrm+kjEkCKBZqc/rxUVVi0=
+
+Name: res/drawable-hdpi-v4/thumb_monster_193r_glay_ooze.png
+SHA1-Digest: mhupxVFRilM/mrQuBKVKn3ko3zA=
+
+Name: res/drawable-hdpi-v4/thumb_monster_116r_merrow.png
+SHA1-Digest: zJ2zmQzPSFum4wKWkV32abZwyR4=
+
+Name: res/drawable-mdpi-v4/flog_icon_run_failed.png
+SHA1-Digest: I+eA+eEmdmgwBM2q34ksM9IBcbs=
+
+Name: res/drawable-mdpi-v4/alog_icon_encounter_event.png
+SHA1-Digest: uXFM4FbQML72L014DDTq3u7gnN0=
+
+Name: res/drawable-hdpi-v4/npc_elf_actor104.png
+SHA1-Digest: yAEzFXkGKDdigYz1SC+SKAzOA8c=
+
+Name: res/drawable-hdpi-v4/thumb_monster_131_cockatrise.png
+SHA1-Digest: MXcjeuhUa3c4skyvbD9GCz5qI5w=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: l1vAHuMzY2p31345Cn/iij28UpQ=
+
+Name: res/drawable-hdpi-v4/char113_actor113.png
+SHA1-Digest: 9PUfKEo+2sU6jbNPCRj8GYmhuSU=
+
+Name: res/drawable-mdpi-v4/item_synthetic_catalyst.png
+SHA1-Digest: uImkIVhX7iJAyh5emNVpCBseSlI=
+
+Name: res/drawable-hdpi-v4/thumb_monster_214r_priestess.png
+SHA1-Digest: fOlR8hdsO0VL2puArlffbXIHuyc=
+
+Name: res/drawable-hdpi-v4/thumb_monster_011r_high_orc.png
+SHA1-Digest: 2H46IIo0j4Q86U/Mt8BfTlSxD0Q=
+
+Name: META-INF/android.arch.lifecycle_runtime.version
+SHA1-Digest: OxxKFJcpzAROGjnfMbNijNv1+JU=
+
+Name: res/drawable-mdpi-v4/monster_170r2_humbaba.png
+SHA1-Digest: RioXGlI6Dk/qmGYci8c9lCdH3XU=
+
+Name: res/drawable-mdpi-v4/monster_068r_hydra.png
+SHA1-Digest: QuxUiPVySx5WpohvY+3JZw3sH8E=
+
+Name: res/drawable-hdpi-v4/char006_actor118.png
+SHA1-Digest: 0AZcZ9dJZYfzFvlt5cxhv3iRinw=
+
+Name: res/drawable-mdpi-v4/item_ring_emerald.png
+SHA1-Digest: dNm84DZxg+VVGm8A3qidL9XskvE=
+
+Name: res/drawable-hdpi-v4/bg_epilog.jpg
+SHA1-Digest: igGv2VCKruJ/y2JCeZwC/2DSRNE=
+
+Name: res/drawable-mdpi-v4/monster_137_fire_elemental.png
+SHA1-Digest: QZWc4rinC06rMRxG4aSApsuiC7o=
+
+Name: res/drawable-mdpi-v4/monster_109_necromancer.png
+SHA1-Digest: sbmCl51TFh87+GzI67o5gH7EzOA=
+
+Name: res/drawable-hdpi-v4/char204_actor48.png
+SHA1-Digest: kCEMmptaciZ53GEc/VfIxHfjxeA=
+
+Name: res/drawable-hdpi-v4/char023_actor23.png
+SHA1-Digest: hvPQY00APxt7hUnWR4KwnhDOJWo=
+
+Name: res/drawable-mdpi-v4/item_ninja_katana.png
+SHA1-Digest: 6Zw4QQeJ9p9h7p3h3JjlU3xiXiQ=
+
+Name: res/drawable-hdpi-v4/char154_actor90.png
+SHA1-Digest: E5ttalyTtKCVINVm5xZC2im/6XY=
+
+Name: res/drawable-mdpi-v4/monster_264_otyugh.png
+SHA1-Digest: lDtPQ6moIgWvUPSdAPSFRAxx1SQ=
+
+Name: res/drawable-hdpi-v4/char115_actor120.png
+SHA1-Digest: 805/Fi7Su1LxXXI6zY5lMJkrJ14=
+
+Name: res/drawable-hdpi-v4/thumb_monster_041_giant_rat.png
+SHA1-Digest: BC/jM5bbNdixtU57Q+CM5kjdXuY=
+
+Name: res/drawable-mdpi-v4/monster_116r_merrow.png
+SHA1-Digest: ORxitNh4fVKL+XNQbFrBUHiK8Jk=
+
+Name: res/drawable-hdpi-v4/thumb_monster_068r_hydra.png
+SHA1-Digest: ZKYI3soT2MOakQj0r7WYtg8LUBY=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: ralFi/xjLzZzimSmlAGCFAUgfbE=
+
+Name: res/layout/edge_of_town.xml
+SHA1-Digest: Eh3jMXDj3t6TXKtkjqdAMUDsOcM=
+
+Name: res/drawable-mdpi-v4/alog_icon_clear_dungeon.png
+SHA1-Digest: UiH/8UAzt+6EQ5240FTgUv/eIOE=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA1-Digest: 58urVpmMnQt7Ya79ltr3jDDCxZk=
+
+Name: res/drawable-mdpi-v4/alog_icon_dead.png
+SHA1-Digest: OlyWvs6HCynCG5Rr+m53v2patmQ=
+
+Name: res/drawable-hdpi-v4/thumb_monster_088r_yamabushi.png
+SHA1-Digest: z41Btbpeddnh1trs/TiDy6jGu8M=
+
+Name: res/drawable-hdpi-v4/char063_actor82.png
+SHA1-Digest: 4fFcYsEHKYd+8eZ5fGoM9f5xdtk=
+
+Name: res/drawable-mdpi-v4/monster_033r_assassin.png
+SHA1-Digest: J9vtOkkwxLv1qm5iNVqO0Ft+fo8=
+
+Name: res/drawable-mdpi-v4/item_composite_bow.png
+SHA1-Digest: YFOqXCFBs8nL6+hg5JmlNgqJA4g=
+
+Name: res/drawable-mdpi-v4/item_claymore.png
+SHA1-Digest: ir0eYI7fUlzUGlMswlEUtIR8vFg=
+
+Name: res/drawable-hdpi-v4/thumb_monster_276_jabberwock.png
+SHA1-Digest: LCSEfzirtlY3+iAdg/VBTEMFN/0=
+
+Name: res/drawable-xhdpi-v4/logo_simple_360.png
+SHA1-Digest: CnkUkz7BraZESk8R6TZILK7sZkQ=
+
+Name: res/layout/dungeon_info_dialog.xml
+SHA1-Digest: DPZ/3EeYTv3ivQ+U6RzUnNfB7gg=
+
+Name: res/drawable-hdpi-v4/char030_actor36.png
+SHA1-Digest: SsZzkEP0k9bmb/CHIxbL2va0uKM=
+
+Name: res/drawable-hdpi-v4/thumb_monster_160r_chimera.png
+SHA1-Digest: 0UoC5U1b//BaXNuXTHM/PMU0FEY=
+
+Name: res/drawable-hdpi-v4/thumb_monster_122_vampire.png
+SHA1-Digest: WxaYPwVn3dWwX8iTaMGBQCZBZQQ=
+
+Name: res/drawable-hdpi-v4/thumb_monster_043_stone_golem.png
+SHA1-Digest: VWCd02cvlRsu8LVPrhDX1zjA8EI=
+
+Name: res/drawable-hdpi-v4/thumb_monster_239r_lucifer.png
+SHA1-Digest: 8lCcIrieK7nIBNZDSLcr11p2eJs=
+
+Name: res/drawable-mdpi-v4/item_silver_handle.png
+SHA1-Digest: eqM4+WFGQvEwgy8UR8XP7wg2OuQ=
+
+Name: res/drawable-hdpi-v4/char129_actor27.png
+SHA1-Digest: AGMmGJRIJSobjgcTxYO/RJF8Eyk=
+
+Name: res/drawable-hdpi-v4/thumb_monster_026r_marid.png
+SHA1-Digest: KzbzdsZgjcOP5w0vJ971GyPCUuw=
+
+Name: res/drawable-mdpi-v4/item_mace.png
+SHA1-Digest: Ga4QP2AbNVYZUtT0ksB4mSnC1QM=
+
+Name: res/drawable-hdpi-v4/char042_actor53.png
+SHA1-Digest: ZGb5t+bHXKYSszdVvWGQ5031vd4=
+
+Name: res/drawable-hdpi-v4/thumb_monster_198_lesser_demon.png
+SHA1-Digest: RTxBgsCsRvW4M8WaQEktTaPyqic=
+
+Name: res/drawable-mdpi-v4/item_link_shield.png
+SHA1-Digest: qJBHHq1f9myaHKdh+uHx0C44+5g=
+
+Name: res/drawable-hdpi-v4/char039_actor47.png
+SHA1-Digest: ZCyLnhMT5NUcpIrMk3cC7rKWjos=
+
+Name: res/drawable-hdpi-v4/char156_actor96.png
+SHA1-Digest: w6cvbvg8Q4iUX1TtN64x1YKv/3g=
+
+Name: res/drawable-hdpi-v4/thumb_monster_136_salamander.png
+SHA1-Digest: Y3OvhxNnlGWVvCRjLpwlGcWyyq4=
+
+Name: res/drawable-mdpi-v4/monster_090r_high_ninja.png
+SHA1-Digest: v2FlE3Xs12wAj4PqZF9YmcyBdM8=
+
+Name: res/drawable-hdpi-v4/char044_actor55.png
+SHA1-Digest: Ori92xK8RKxIlWTNP9WpQK6nKyM=
+
+Name: res/drawable-mdpi-v4/monster_145r_phantom.png
+SHA1-Digest: dPOikqPeh/yEaXHK99rZDBIsMo8=
+
+Name: res/drawable-hdpi-v4/char061_actor80.png
+SHA1-Digest: gpjyuDUWlnkmBJyCuh5dpnqxOeA=
+
+Name: res/drawable-mdpi-v4/monster_193r_glay_ooze.png
+SHA1-Digest: 37Oh+EexaPqMatjvEu+y+behPpA=
+
+Name: res/drawable-hdpi-v4/thumb_monster_232r_axe_beak.png
+SHA1-Digest: MP+EywZa10kqJLzQXtn6o3TzTkk=
+
+Name: res/drawable-hdpi-v4/thumb_monster_090_ninja.png
+SHA1-Digest: f52MSeyiWnu8eH0RNlf9qHMJ//Y=
+
+Name: META-INF/androidx.customview_customview.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_176_peryton.png
+SHA1-Digest: gy1hVYEf1sl3bJBrEa3cChovMos=
+
+Name: res/drawable-hdpi-v4/thumb_monster_197r_basilisk.png
+SHA1-Digest: AccZKb09nqzyfQlnzfbyOYh8W/Y=
+
+Name: res/drawable-hdpi-v4/thumb_monster_003r_black_pudding.png
+SHA1-Digest: +8jyiLs+Y9kEfhAOXia07gpSU3E=
+
+Name: res/drawable-hdpi-v4/thumb_monster_134_troll.png
+SHA1-Digest: A+L1B0OUikZymjqnCiOF/UcMW0Y=
+
+Name: res/drawable-mdpi-v4/flog_icon_defense_miss.png
+SHA1-Digest: vIeeUXwM+IYOhhIrQIB8wsjnxCA=
+
+Name: res/drawable-hdpi-v4/char070_actor93.png
+SHA1-Digest: RKedNEJKgEjYPrnu1qrs5duYl+M=
+
+Name: res/drawable-mdpi-v4/monster_079r_rogue.png
+SHA1-Digest: ReIRydtIKdXRorRJQETKAecX47I=
+
+Name: res/drawable-hdpi-v4/char053_actor7.png
+SHA1-Digest: bk+yJaPQ1PuA1N5niRuzdRbFaSI=
+
+Name: res/drawable-hdpi-v4/char135_actor4.png
+SHA1-Digest: glEJ7siZO5an7oQDv/U1kW98x7k=
+
+Name: res/drawable-mdpi-v4/alog_icon_enter_block_safe_zone.png
+SHA1-Digest: D49vfua81sulbIsQYapPP2UJ9A0=
+
+Name: res/drawable-hdpi-v4/thumb_monster_245r_dark_knight.png
+SHA1-Digest: mJ7wBCWl+N7gW8JFtu1wBUf8loE=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 9MYmMKRnfwttaoRGc1WDg0jzgyY=
+
+Name: res/drawable-hdpi-v4/char114_actor117.png
+SHA1-Digest: Qrg+cz4GW2d42IoasNQ1aNhvXBk=
+
+Name: res/drawable-mdpi-v4/monster_104_gargoyle.png
+SHA1-Digest: rH0cpyJFgYpKB49uwVugnI9eS98=
+
+Name: res/drawable-mdpi-v4/alog_icon_quest_clear.png
+SHA1-Digest: FKA5kQ9njAs8eOAkQfOm4LeKnO4=
+
+Name: res/drawable-hdpi-v4/char151_actor87.png
+SHA1-Digest: ZntLLSTWnqFUianiPewxzOwE2mA=
+
+Name: res/drawable-hdpi-v4/thumb_monster_269r_centaur.png
+SHA1-Digest: mGS7fh47bTbjf932wdZSoK2oP50=
+
+Name: res/drawable-mdpi-v4/monster_127r_wood_golem.png
+SHA1-Digest: Xv1WHpwyHILAzpR31c2bxhbA50A=
+
+Name: res/drawable-xhdpi-v4/ic_launcher_lq2.png
+SHA1-Digest: W9OUFg9+MVPNR9jz56Hcul10xKk=
+
+Name: res/drawable-mdpi-v4/item_rusted_key.png
+SHA1-Digest: qj2iU/BDwuOnSqed1XnN+M6ltyg=
+
+Name: res/drawable-mdpi-v4/monster_143_skelton.png
+SHA1-Digest: zCHLr+HiQVyd2MvOgGUcwjp3yag=
+
+Name: res/drawable-mdpi-v4/flog_icon_breath.png
+SHA1-Digest: ciM6DjkovNKsn2ux7AIEKsf2OEA=
+
+Name: res/layout/tactics_making.xml
+SHA1-Digest: uzclO2jAO3oepFU+zjQ3nc5d5ho=
+
+Name: res/drawable-mdpi-v4/monster_232r_axe_beak.png
+SHA1-Digest: lgmrW/hUnLwUfAFaXTdwgpKhQyY=
+
+Name: res/drawable-mdpi-v4/monster_091_monolith.png
+SHA1-Digest: BCMSMQv1lGbpjFaTV18PXSuMAEw=
+
+Name: res/drawable-mdpi-v4/item_amanomurakumo.png
+SHA1-Digest: 1dyZ18UvJwCStm27m69cAr68S9Q=
+
+Name: res/drawable-hdpi-v4/char040_actor49.png
+SHA1-Digest: nIlifMdZEp7ZH6oefLP984AY6hA=
+
+Name: res/drawable-hdpi-v4/thumb_monster_024_water_elemental.png
+SHA1-Digest: DSO/vQIYBYwyLGxaeY/gizBBSgA=
+
+Name: res/drawable/messages_background.xml
+SHA1-Digest: 0y57mzkVuRY72CX62QH/3ZtZiTc=
+
+Name: res/drawable-hdpi-v4/thumb_monster_142_ghoul.png
+SHA1-Digest: mX66C4hxUlRiCLZ4JH0Wz6Iuxbc=
+
+Name: res/drawable-mdpi-v4/flog_icon_defense_critical.png
+SHA1-Digest: +NpWb+7UD5DCqoEdcdWNXAN80HY=
+
+Name: res/drawable-mdpi-v4/item_ring_jewels.png
+SHA1-Digest: ZyYtcaV1NjbQQnNRPa58/3B690g=
+
+Name: res/drawable-mdpi-v4/item_highest_potion.png
+SHA1-Digest: UfKeuVC5fiKakYuFG/HPTgHZfNw=
+
+Name: res/drawable-hdpi-v4/thumb_monster_069r_purple_worm.png
+SHA1-Digest: iW//Fuf1IEsKZPA0uOkQ7WJjLsU=
+
+Name: res/layout/detailed_item_dialog.xml
+SHA1-Digest: HKWuSkbCxptdzf3ZMM5cCfV+ZcU=
+
+Name: res/drawable-mdpi-v4/monster_225_giant_crab.png
+SHA1-Digest: qQSNXBa4SFRwQdGAI+p7f9uaRMA=
+
+Name: res/drawable-hdpi-v4/thumb_monster_002_slime.png
+SHA1-Digest: iWfidVwPY7ISkfHzwaSrn26f4sk=
+
+Name: res/drawable-hdpi-v4/thumb_monster_079r_rogue.png
+SHA1-Digest: UFOEzw2LxA+rFrFA7Nak2E8igX0=
+
+Name: res/drawable-hdpi-v4/char022_actor22.png
+SHA1-Digest: VJvGy5eVlDWWmXG3elOAde6/6T4=
+
+Name: res/drawable-hdpi-v4/thumb_monster_156_kobold.png
+SHA1-Digest: BVTS2bAlU3O7GNaUILKOnqvPefI=
+
+Name: res/drawable-hdpi-v4/char144_actor68.png
+SHA1-Digest: ot6fBQIru+8kntcDPcO1eIbk6eU=
+
+Name: res/drawable-mdpi-v4/monster_261r_clay_golem.png
+SHA1-Digest: 2JuVdoliRy714j9zpzl/GbO7mvE=
+
+Name: res/drawable-mdpi-v4/monster_040_giant_ant.png
+SHA1-Digest: 49+BNCH18f30FJwCG2A3aODZdaY=
+
+Name: res/drawable-mdpi-v4/monster_030r_air_elemental.png
+SHA1-Digest: 3tfBPaLPakVGWamb2ALfrwXLA8s=
+
+Name: res/drawable-hdpi-v4/thumb_monster_088_tengu.png
+SHA1-Digest: g8wUASff9hBzOfeJpdhxI3WBVpc=
+
+Name: META-INF/androidx.recyclerview_recyclerview.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-mdpi-v4/item_undead_slayer.png
+SHA1-Digest: 2d2DgrrxctU2fIkICvpRynBScH0=
+
+Name: res/drawable-mdpi-v4/monster_038_mod_dragon_fly.png
+SHA1-Digest: OoodcV31wbz4s4L6eAWpHdJyjYA=
+
+Name: res/drawable-hdpi-v4/thumb_monster_173_chonchon.png
+SHA1-Digest: mvT3DdxKa2g/BvTaWs2FR5cFdD0=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: qtoCsdEoyaDYmAvH44tfVLv6hoY=
+
+Name: res/drawable-mdpi-v4/item_purple_flower.png
+SHA1-Digest: wj0DGyHQvNQxYz3CPB//oi6ZSH4=
+
+Name: res/drawable-hdpi-v4/char128_actor20.png
+SHA1-Digest: AUrsYr8CP4lnDsMJ2lBY9xZ8Gns=
+
+Name: res/drawable-hdpi-v4/thumb_monster_258_blue_dragon.png
+SHA1-Digest: dWyBchC4Uo9ArwdM3RbvPqRITO4=
+
+Name: res/layout/monster_catalog_dialog.xml
+SHA1-Digest: 2n6d7l5dOPj8Wymfrp+zJGo8bVs=
+
+Name: res/drawable-mdpi-v4/monster_164_ettin.png
+SHA1-Digest: 0fPo68cguaM/7hb5WOq1wNZXFSQ=
+
+Name: res/drawable-hdpi-v4/tab_warehouse.png
+SHA1-Digest: AIHJmj80DWJmDvpn7izDuwP939A=
+
+Name: res/drawable-hdpi-v4/char033_actor40.png
+SHA1-Digest: LEqhjOA8j4gecytzlXlol35gYfk=
+
+Name: res/drawable-hdpi-v4/char119_actor126.png
+SHA1-Digest: DWI3+6exAdVcG3uCvzoyl7ccpq4=
+
+Name: res/drawable-hdpi-v4/thumb_monster_282r_bloodworm.png
+SHA1-Digest: h4i8pzIJbrTgV8/qnxhrPCpZEig=
+
+Name: META-INF/androidx.cursoradapter_cursoradapter.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_057r_carrion_crawler.png
+SHA1-Digest: H3H1bNpjJg6nKqP700de1k505kQ=
+
+Name: res/drawable-mdpi-v4/item_mithril_chain.png
+SHA1-Digest: B0dMYyQsP9wjF6XSMH6GYcKPIwc=
+
+Name: res/drawable-hdpi-v4/thumb_monster_178r_guild_master.png
+SHA1-Digest: 5Nnb+uS/tRFPk95tArf4ftfgLbY=
+
+Name: res/drawable-hdpi-v4/thumb_monster_194r_warrior.png
+SHA1-Digest: G4mRAbP7UHpDkgPAgXwoDdKqIRE=
+
+Name: res/drawable-mdpi-v4/monster_190r_warlock.png
+SHA1-Digest: CUEAXO7wUb2lf8U3ieNM4YlQ+94=
+
+Name: res/drawable-hdpi-v4/thumb_monster_090r_high_ninja.png
+SHA1-Digest: OJowJv94FvTd7qLBKS0I0r5PnhU=
+
+Name: META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_261_shambling_mound.png
+SHA1-Digest: baXR2/3Fks6TJxhewWAgLKVYg7U=
+
+Name: res/drawable-hdpi-v4/thumb_monster_119_eel.png
+SHA1-Digest: A4XTuwJS9yTgA+vS8nMeLFOUw/w=
+
+Name: res/drawable-mdpi-v4/monster_102_hill_giant.png
+SHA1-Digest: NouN5ZELffomIcrjbFLaLP/LmKg=
+
+Name: res/drawable-mdpi-v4/monster_148_ghost.png
+SHA1-Digest: JYdhy31uy8IaoIsOyxePtPoXmjo=
+
+Name: res/drawable-hdpi-v4/char102_actor100.png
+SHA1-Digest: DYtvma4ILGs4AVQ5j+BgXa/cUZA=
+
+Name: res/drawable-hdpi-v4/thumb_monster_288r_hell_hound.png
+SHA1-Digest: zMAEWGjeIsHSFDTGok56hNjrAsM=
+
+Name: res/drawable-mdpi-v4/item_dragon_slayer.png
+SHA1-Digest: QnFmW46VOkcJcRNz18KiF7dxDAc=
+
+Name: res/drawable-hdpi-v4/char037_actor44.png
+SHA1-Digest: HwhBz2vESEA+lfKQ/4TtzqNOLfo=
+
+Name: res/drawable-mdpi-v4/item_mournblade.png
+SHA1-Digest: cF+LhGrru3iDjYPbkPScKYtpFVA=
+
+Name: res/drawable-mdpi-v4/alog_icon_use_item.png
+SHA1-Digest: n6pn8O+AuWU4Lu1v1jhbVSiUtho=
+
+Name: res/drawable-hdpi-v4/thumb_monster_209_gorgon.png
+SHA1-Digest: rmrYzb7Rzl+kmzm0GUvF8IWVbao=
+
+Name: res/drawable-hdpi-v4/char051_actor67.png
+SHA1-Digest: XMrnanQRWpqJe1aS1YMiQ/xLVKc=
+
+Name: res/drawable-hdpi-v4/char140_actor6.png
+SHA1-Digest: dxso5fe0a4i5MsDJxU+TMeIJmvo=
+
+Name: res/drawable-hdpi-v4/char117_actor122.png
+SHA1-Digest: hnHcynVulvCfzaEJ8P769Pz6MPc=
+
+Name: res/drawable-mdpi-v4/monster_228r_ancient_dragon.png
+SHA1-Digest: IIR12PkUWQ5q0vDqWwAEAcbvk4Q=
+
+Name: res/layout/list_item_catalog_entry.xml
+SHA1-Digest: bJfrWnMLFybUGJ2k+wuTZIorbco=
+
+Name: res/drawable-mdpi-v4/monster_070_kraken.png
+SHA1-Digest: r9pPLHtNLE9B7MTGDeDNNhioRno=
+
+Name: res/drawable-mdpi-v4/monster_088r_yamabushi.png
+SHA1-Digest: uUt30/PccvMSpOS+PuhZXA+ZluM=
+
+Name: res/drawable-mdpi-v4/item_gungnir.png
+SHA1-Digest: eMOdJitKt+FFXvP0riEro1SWCDU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_256_red_dragon.png
+SHA1-Digest: 4ROqQysj3JrJg27ndYJdxI+6YQE=
+
+Name: res/layout/tactics_use_item_dialog.xml
+SHA1-Digest: Mj+yasbwAd3wLC0lspKjTomEUvE=
+
+Name: res/drawable-hdpi-v4/char049_actor65.png
+SHA1-Digest: fRkC6h/1OH1gjtJ65GxxTmxGUDs=
+
+Name: res/drawable-mdpi-v4/item_highest_magic_potion.png
+SHA1-Digest: i18ka1/eDZZjFVFkFQcoXBVmCPc=
+
+Name: res/drawable-hdpi-v4/thumb_monster_004_gelatinous_cube.png
+SHA1-Digest: QToJJdcKImoCuzzFHzK7srgeRHo=
+
+Name: play-services-ads-lite.properties
+SHA1-Digest: fCapQZKr03kUtbmv9q6EGkHOdQA=
+
+Name: res/drawable-mdpi-v4/monster_173_chonchon.png
+SHA1-Digest: QtUodVd3siEYXC2oTuvUuTG88Qo=
+
+Name: res/drawable/town_map_town.xml
+SHA1-Digest: D3nS/9FZ8CozCNgqHEoTpq2b8vk=
+
+Name: res/drawable-mdpi-v4/flog_icon_attack_critical.png
+SHA1-Digest: 1R+gaFAcxzTDFWdTEho+49yy9p4=
+
+Name: res/drawable-hdpi-v4/thumb_monster_138r_iron_golem.png
+SHA1-Digest: sgj/71AT3SKM7B1BqXrIeDqmsbo=
+
+Name: res/drawable/view_background.xml
+SHA1-Digest: A2TierxGI8erwcDeYMYCAKxNH50=
+
+Name: res/layout/browser_actions_context_menu_page.xml
+SHA1-Digest: IjbHcnvL5B6qEw7VKz3fVNhUN28=
+
+Name: res/drawable-hdpi-v4/char136_actor46.png
+SHA1-Digest: sVbX0htFvZW7SZakbBs/AigYpoQ=
+
+Name: res/drawable-mdpi-v4/monster_256r_silver_draon.png
+SHA1-Digest: 9iF6GTGGMQStk90oDXbjW+BuS0c=
+
+Name: res/drawable-mdpi-v4/item_samurai_blade.png
+SHA1-Digest: lsivgMCvPfCBQ03Tw9JgzlVpWdA=
+
+Name: res/layout/item_synthesis_dialog.xml
+SHA1-Digest: QnNLyCDzdoX1CAUM1HgYj28DJ+A=
+
+Name: META-INF/android.arch.lifecycle_livedata.version
+SHA1-Digest: OxxKFJcpzAROGjnfMbNijNv1+JU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_141_zombie.png
+SHA1-Digest: j6TQg73BvPc/+vPxnTKuI4R20U4=
+
+Name: res/drawable-hdpi-v4/ic_launcher_lq2.png
+SHA1-Digest: EPUZd4NPbMT8vcCeBF8VDDC4DZU=
+
+Name: res/drawable-xhdpi-v4/nend_ad_video_cta.png
+SHA1-Digest: zsnJ/562Fq7XyXp2pz3f/yji2Ng=
+
+Name: res/drawable-hdpi-v4/thumb_monster_250r_talos.png
+SHA1-Digest: 4BfvmFxL/Pk+PJZgnG+NqtrRH58=
+
+Name: res/drawable-mdpi-v4/monster_218_ronin.png
+SHA1-Digest: Gdv04+TPdGqldALwig8/tdw8Pnc=
+
+Name: res/drawable-xhdpi-v4/arrow_uemigi.9.png
+SHA1-Digest: AqeFec23dFoCLWxz/pRHes/QPVA=
+
+Name: res/drawable-hdpi-v4/thumb_monster_114_opinincus.png
+SHA1-Digest: YXbhpWm60bP4W7ebMcZ/mH8XIf4=
+
+Name: res/drawable-mdpi-v4/item_club.png
+SHA1-Digest: KB3eBHEA2epayiHdaJuRyci+Ts0=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: 5NKEzZ9TKPL7qIP97p7tIioHrGA=
+
+Name: META-INF/androidx.versionedparcelable_versionedparcelable.versio
+ n
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-mdpi-v4/monster_090_ninja.png
+SHA1-Digest: JkYDF8Nq1vIsNtQfoo3S+/q4E6U=
+
+Name: res/drawable-mdpi-v4/alog_icon_returned.png
+SHA1-Digest: 2zplLJkFYYvtW/61rD8Z9cCqvQk=
+
+Name: res/drawable-hdpi-v4/thumb_monster_256r_silver_draon.png
+SHA1-Digest: 928N2yUM40CSj+h/ggtrKr/T598=
+
+Name: play-services-measurement-base.properties
+SHA1-Digest: RSwHWfPeZ5Ot0rXIoj9uI+UPVxw=
+
+Name: res/drawable-xxxhdpi-v4/nend_ad_full_board_close.png
+SHA1-Digest: 6e9Js68hPihnn1DoJLt34ywcsLQ=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: duzht+XG6Ou4wkNjtM0BAOx2xhg=
+
+Name: res/drawable-mdpi-v4/flog_icon_fight_lose.png
+SHA1-Digest: 34kLE6+Hs3rXX988bnwBGCLTQAo=
+
+Name: res/drawable-xxhdpi-v4/nend_ad_video_mute_on.png
+SHA1-Digest: bijBtNEwXfVPFNuWNrHDFo0KTL0=
+
+Name: res/drawable-hdpi-v4/thumb_monster_210_greater_demon.png
+SHA1-Digest: C0hqB3rqwW2kFhIMDBgLpEgEePM=
+
+Name: res/drawable-mdpi-v4/item_astro_book.png
+SHA1-Digest: ro3HN4mInO2javFVuSyW8Ity9Jw=
+
+Name: res/drawable-hdpi-v4/char125_actor14.png
+SHA1-Digest: SiaCze4LihFriRcDZpHLdGEh1GI=
+
+Name: res/drawable-mdpi-v4/monster_138r_iron_golem.png
+SHA1-Digest: xmn1EO37lDVTdZvfXxz5veOoGlI=
+
+Name: res/drawable-mdpi-v4/monster_192r_flesh_golem.png
+SHA1-Digest: alYchPTWdh2DJDRJRdE+2wLGTG8=
+
+Name: res/drawable-hdpi-v4/char134_actor37.png
+SHA1-Digest: 70dxRCHSIHHCbVWdosvlliLWPTQ=
+
+Name: res/drawable-mdpi-v4/item_sling_staff.png
+SHA1-Digest: O+UndSF7HpgDJjazbEGcLDPIUms=
+
+Name: res/drawable-mdpi-v4/monster_162_sea_serpent.png
+SHA1-Digest: EsGJ0Uxq0oZEiaQ0g3kSx9CYH3E=
+
+Name: res/drawable-hdpi-v4/char110_actor11.png
+SHA1-Digest: H369mRNuAlziCgemV//ESn91AQU=
+
+Name: res/drawable-hdpi-v4/ic_status_lq2.png
+SHA1-Digest: xSxopqdisoqlNs0NES9NkMn7d2Q=
+
+Name: assets/nend_button_cancel.png
+SHA1-Digest: jqPMGPdMNjBpZZqKSKOuhrXjhrI=
+
+Name: res/drawable-mdpi-v4/monster_194_berserker.png
+SHA1-Digest: stw8OFMI4NbGhdQEqEg5FWikP8U=
+
+Name: res/drawable-mdpi-v4/arrow_uemigi.9.png
+SHA1-Digest: khKCVIp0wMe4FXS9jce/L1mf4Nw=
+
+Name: res/drawable/list_item_background_log_safe.xml
+SHA1-Digest: ovmpXCd6JpNPZ+T4k4lc2LNVI/Y=
+
+Name: res/drawable-hdpi-v4/thumb_monster_174r_gremlin.png
+SHA1-Digest: HuMd4ZsuTmueTTflmXKSaKCw1bc=
+
+Name: res/drawable-hdpi-v4/char139_actor59.png
+SHA1-Digest: QNnOxpl4/gWL41zhkrHky6Nbzfc=
+
+Name: res/drawable-hdpi-v4/char145_actor70.png
+SHA1-Digest: RVIMFxXBRt4sRRnCdHeFUuxkNjM=
+
+Name: res/layout/detailed_weapon_dialog.xml
+SHA1-Digest: 4Q9RaMUVGrurPeQ88ki1r4q5Fw4=
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: 2fMwOEbBLUpqa5IfynnLafkE9Pw=
+
+Name: res/layout-v17/notification_template_media_custom.xml
+SHA1-Digest: NF3R/EFJGXGdqIG7/Z2+zA4cMi4=
+
+Name: res/drawable-hdpi-v4/thumb_monster_096r_crocodile.png
+SHA1-Digest: p3RDDRm0CAOQkq4CghWNYn4ZOZA=
+
+Name: res/drawable-mdpi-v4/monster_043_stone_golem.png
+SHA1-Digest: ctY9Py5y1Ssf+ptGgLWTAf6WZs4=
+
+Name: res/drawable/nend_ad_full_board_action_button.xml
+SHA1-Digest: 6z5lj35rK5r4NUQi++XUbRwEr4w=
+
+Name: res/drawable-mdpi-v4/monster_265_naga.png
+SHA1-Digest: TDkLq8FBS5wfjvegP+nuHjDWAtc=
+
+Name: res/drawable-mdpi-v4/item_long_bow.png
+SHA1-Digest: eIgBG1N8rWYB3WAhFvJeuI5PokA=
+
+Name: res/drawable-mdpi-v4/monster_122_vampire.png
+SHA1-Digest: aQBULfRvOmEIYA9hV3xz7n2aupY=
+
+Name: res/drawable-mdpi-v4/alog_icon_treasure_abandon.png
+SHA1-Digest: +bU3F8TLx6IBON/FZHODwqk0ZLg=
+
+Name: res/drawable-mdpi-v4/monster_025_giant_amoeba.png
+SHA1-Digest: 6jJ+Ci9Fq8AKjKwCmHYHQFytP2w=
+
+Name: res/drawable-mdpi-v4/monster_168_hobgoblin.png
+SHA1-Digest: 46eaTJp33XQq8/bE554Fd9pBpkU=
+
+Name: res/drawable-mdpi-v4/monster_257_white_dragon.png
+SHA1-Digest: Qyc/3qkDXd7ZQwoibSJC3kI5+44=
+
+Name: res/drawable-mdpi-v4/item_spear.png
+SHA1-Digest: FwbFeKIcBghaMWFlweqw2SefU6M=
+
+Name: res/drawable-hdpi-v4/thumb_monster_106r_shaman.png
+SHA1-Digest: By5yqURgACz/4v2EcP/EweaqKXU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_169r_saccubus.png
+SHA1-Digest: eKWrvnid/T/YBKyYGYtCowgx1hQ=
+
+Name: res/drawable-xxhdpi-v4/nend_ad_video_close.png
+SHA1-Digest: kg+Yd1Jkw2mYowRCFkyUmEqq4y4=
+
+Name: res/drawable-mdpi-v4/item_ring_mail.png
+SHA1-Digest: LpSMjQyLNYn4Q+6DOO17lUH+deY=
+
+Name: res/drawable-mdpi-v4/monster_026r_marid.png
+SHA1-Digest: MQWLAPdqRO5fCsVqh2K/XABAd5k=
+
+Name: res/layout-v17/browser_actions_context_menu_page.xml
+SHA1-Digest: qtIeVUmDp3zmcCruIQ/lGHzPZ9s=
+
+Name: res/layout/log_view.xml
+SHA1-Digest: XxV/llwJz4xrUak+PaZoQXjuteQ=
+
+Name: res/drawable-hdpi-v4/thumb_monster_148_ghost.png
+SHA1-Digest: D1MTa6dLYtrXReDDc6Sq4OlZlSA=
+
+Name: res/layout/skill_customization_dialog.xml
+SHA1-Digest: LFlDXQfc72ZKmKJ1ZGkRgYhDP1w=
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: IWACxEz3x12VeBtORpZ9/1b6oQc=
+
+Name: res/layout/notification_media_action.xml
+SHA1-Digest: wbPvihEiVhwh798sYgESGS7WGEg=
+
+Name: res/drawable-hdpi-v4/thumb_monster_184_wolf.png
+SHA1-Digest: BpwsApXByUmW5LfsLOsz6SgIkfM=
+
+Name: res/drawable-mdpi-v4/item_breast_plate.png
+SHA1-Digest: 0X+y/w0aU0yOzN19/5Bqw0TdmDw=
+
+Name: res/drawable-mdpi-v4/flog_icon_attack.png
+SHA1-Digest: sfyZXswIYQVCRV4sYc4+48VL/hE=
+
+Name: res/drawable-hdpi-v4/char137_actor5.png
+SHA1-Digest: vFaXS0XNlxPWqGRtblV6BNYEGlU=
+
+Name: res/drawable-mdpi-v4/monster_272r_catblepas.png
+SHA1-Digest: 5LFJD6J5k/T+aLmDEfcAXuUUL+8=
+
+Name: res/drawable-mdpi-v4/monster_184r_wilddog.png
+SHA1-Digest: lmh35oobT/qDLudoSnmkAGyEktM=
+
+Name: res/drawable-hdpi-v4/char120_actor130.png
+SHA1-Digest: dMKCH037qbStCCfGInXY7HlpZ0o=
+
+Name: res/drawable-hdpi-v4/thumb_monster_137_fire_elemental.png
+SHA1-Digest: HvUiiyRDWImjml8B/1uncLWnTjE=
+
+Name: res/drawable-xxhdpi-v4/nend_ad_full_board_close.png
+SHA1-Digest: 6abZH1TeASUYSG1LNzIgFNIDdak=
+
+Name: res/drawable-mdpi-v4/monster_198_lesser_demon.png
+SHA1-Digest: SdNTrwSDpgZd1tDf6HAb8YeYpT4=
+
+Name: res/drawable-mdpi-v4/item_soul_amulet.png
+SHA1-Digest: KyFEXMD/Rdj9Yi62d9t3fU1oyD0=
+
+Name: META-INF/androidx.viewpager_viewpager.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-hdpi-v4/char019_actor18.png
+SHA1-Digest: KbakIsmO3d7oB7AB7/qrzE0px2s=
+
+Name: res/drawable-mdpi-v4/alog_icon_undefined.png
+SHA1-Digest: 9qTmI02Zd2xw5lBo432AyMFnYZM=
+
+Name: res/drawable-mdpi-v4/monster_071_spector.png
+SHA1-Digest: Vs01wQBQ/lvzQoyz6zUc+2X3FzM=
+
+Name: res/drawable-mdpi-v4/item_staff.png
+SHA1-Digest: 8+N7JxVcB+eveMjjVPTnwvEuISM=
+
+Name: res/drawable-mdpi-v4/item_were_slayer.png
+SHA1-Digest: TUlKtF0ikBsA62+RaKhWbi/OWTA=
+
+Name: META-INF/androidx.legacy_legacy-support-v4.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-mdpi-v4/item_bow_of_shekinah.png
+SHA1-Digest: 1e4WJrH2AZFyhBWf57OcY5+1Sq8=
+
+Name: res/drawable-hdpi-v4/char057_actor73.png
+SHA1-Digest: fU1yfCOyhtjpmdutObdS5fDCIvo=
+
+Name: res/layout-v17/notification_action_tombstone.xml
+SHA1-Digest: ASqQ//948vSiev4AQfw5L1C+lYU=
+
+Name: META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: lHP2KU/WCXjWVnoatuFo6tnTPPs=
+
+Name: res/drawable-mdpi-v4/item_hand_axe.png
+SHA1-Digest: iq37iAUhzx3O6BeG+qsjhqcmPDg=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: Wl4jBkhtPS9E+JkWaS0GOyoMbuw=
+
+Name: res/drawable-mdpi-v4/monster_168r_cave_man.png
+SHA1-Digest: gZGOlk7JmnpabX2YXpSy3VPaRC0=
+
+Name: res/drawable-mdpi-v4/alog_icon_spring.png
+SHA1-Digest: 78DlCbXXYkyPjHZ5FscwJhZ0u60=
+
+Name: res/drawable-hdpi-v4/char104_actor103.png
+SHA1-Digest: YpZG6q9NAAvbMgS1GfXU24xX/8o=
+
+Name: res/drawable-mdpi-v4/item_trident.png
+SHA1-Digest: 2kHdT2mzDTzFxzLuZsp5YQSfMsc=
+
+Name: res/drawable-mdpi-v4/monster_063_bandit.png
+SHA1-Digest: dvPvWy4b0E7QeCXmYvlVwJtABj4=
+
+Name: res/drawable-mdpi-v4/monster_276_jabberwock.png
+SHA1-Digest: Csq278Qowt+btcdjgN77WW0EXCQ=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: 58BeVrWmam0XTYtOcBJSh3YmiJQ=
+
+Name: res/drawable-hdpi-v4/thumb_monster_238r_banshee.png
+SHA1-Digest: MIo818T9D7FzVn9f+jMoWcnAYqg=
+
+Name: res/drawable-hdpi-v4/thumb_monster_034_charon.png
+SHA1-Digest: R5/BrnZ6oSFzsjveH5mrd1MQwC4=
+
+Name: res/drawable-mdpi-v4/item_terminus_est.png
+SHA1-Digest: K8sY/n45YndQwdwwY6l1dEjJyDk=
+
+Name: res/layout/stock.xml
+SHA1-Digest: +bG/5HLwhtvEGym1aKAFhZpj/oc=
+
+Name: res/drawable-mdpi-v4/flog_icon_use_skill.png
+SHA1-Digest: deBlNwPg6K5+3Qb0EkgE0Vr8taY=
+
+Name: res/drawable/list_item_background_log_danger.xml
+SHA1-Digest: EPNlJFK7JvwHDDJ0nA9Yeum1VXA=
+
+Name: res/drawable-mdpi-v4/item_sorcerers_staff.png
+SHA1-Digest: rjtOroW+xgNOmHykCtIYdbWeshM=
+
+Name: res/layout/tactics_pattern.xml
+SHA1-Digest: VQmcbJ48UFxlc8QxJt5+/7Ipjfo=
+
+Name: res/drawable-hdpi-v4/thumb_monster_130r_earth_elemental.png
+SHA1-Digest: EvFcN6/K3uwVTZuCBKxpuvIaHT8=
+
+Name: res/drawable-mdpi-v4/monster_071r_wraith.png
+SHA1-Digest: A3Fx7oY4z/f8BMR3vnw2X2DSD6Y=
+
+Name: res/drawable-mdpi-v4/monster_252_couatl.png
+SHA1-Digest: F5dQcGmXl/kVp35Tc5PZYoasNXM=
+
+Name: res/drawable-hdpi-v4/thumb_monster_184r_wilddog.png
+SHA1-Digest: fgRfnWrng6rFphf7pxXgWvBIdis=
+
+Name: res/drawable-hdpi-v4/char158_actor98.png
+SHA1-Digest: JfauUXPeLuPrZ39J1KmuPlgzbXs=
+
+Name: res/drawable-mdpi-v4/monster_178r_guild_master.png
+SHA1-Digest: S8kjBkIwjlESwi2BT3HYMzRtQkE=
+
+Name: res/drawable-hdpi-v4/thumb_monster_009_roper.png
+SHA1-Digest: jsmUL/yH6ntaNcG+UxA+KeE5wmU=
+
+Name: res/drawable-hdpi-v4/char017_actor16.png
+SHA1-Digest: KkE49psS9PU0UtN6OpTiou+wLBo=
+
+Name: res/drawable-mdpi-v4/item_orc_slayer.png
+SHA1-Digest: IvLdh4NcX8usBpYOQjIK35kZVso=
+
+Name: res/drawable-hdpi-v4/char162_actor140.png
+SHA1-Digest: 3TADIHJZiaGWVcMIzIINNj8ydNE=
+
+Name: res/drawable-mdpi-v4/monster_153_dancing_sword.png
+SHA1-Digest: dmtH+S40VdgZ2/pnRO8yHgcq2xA=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: G1jkT7kg1u+F0QeNL8eLZsQQB4A=
+
+Name: res/drawable-mdpi-v4/monster_008_ape.png
+SHA1-Digest: oAJqwTqbZNh3SY7YD69X4qLlYPY=
+
+Name: res/drawable-mdpi-v4/flog_icon_run.png
+SHA1-Digest: IwE9PjtYZENFYpEbK8RRTNVdUi0=
+
+Name: res/drawable-mdpi-v4/monster_281r_barolg.png
+SHA1-Digest: /reJFj1FNj/XuDZODmtkW8s7yK8=
+
+Name: res/drawable-hdpi-v4/char052_actor69.png
+SHA1-Digest: iZQZoW/+/QvFX2z/lk26v8sWquM=
+
+Name: res/drawable-hdpi-v4/char101_actor10.png
+SHA1-Digest: QQJREY0dFWr26i+EsIEr44h4Oto=
+
+Name: res/drawable-hdpi-v4/thumb_monster_149_lich.png
+SHA1-Digest: Gdk+/3vU06dAo0VU0KPuv9zdWoE=
+
+Name: res/drawable-mdpi-v4/monster_136_salamander.png
+SHA1-Digest: 8G3BWzdk5psrklkTTVu57YwW2yc=
+
+Name: res/drawable-hdpi-v4/char014_actor133.png
+SHA1-Digest: WCCP3uA97z0yF4GQxaQ07ftyPb4=
+
+Name: res/layout/list_item_skill.xml
+SHA1-Digest: hG5xBF/nY6XFyKVOw4O/h3lQnfU=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA1-Digest: nIad1cf7JdsCyR8qZxOE4oSlErQ=
+
+Name: play-services-basement.properties
+SHA1-Digest: V6DTN0KZN4fLPF8kDDenmzraLjs=
+
+Name: res/drawable-mdpi-v4/monster_275r_cavebear.png
+SHA1-Digest: nkZsy1VCoRqowBa4bqx0qQLb1VU=
+
+Name: res/drawable-mdpi-v4/item_battle_dress.png
+SHA1-Digest: 88HoLxdUzo2ajGurHlo4dlkUaM0=
+
+Name: res/drawable-hdpi-v4/char038_actor45.png
+SHA1-Digest: GXkNqUTH42C22axj4pKBEKIISIo=
+
+Name: res/drawable-mdpi-v4/item_glamdring.png
+SHA1-Digest: K61TmMNodk3yRQSfu98DkchFQac=
+
+Name: res/drawable-mdpi-v4/item_chain_mail.png
+SHA1-Digest: wr9Z1iIxQIQqYcJB9P5qwwwAHIA=
+
+Name: res/drawable-hdpi-v4/thumb_monster_086_ogre.png
+SHA1-Digest: uCOtXqt1mHUkMAkOFIB+7OitKXM=
+
+Name: res/drawable-hdpi-v4/thumb_monster_261r_clay_golem.png
+SHA1-Digest: WEjmsVyxZ2yAHEz84/oruUnpa80=
+
+Name: res/drawable-hdpi-v4/thumb_monster_140_phoenix.png
+SHA1-Digest: pS9aOYfphPai/M7G2WmqJRQet10=
+
+Name: res/drawable-mdpi-v4/monster_213r_cleric.png
+SHA1-Digest: dstf9KCF1taza/vKuS7YXCv9H+4=
+
+Name: res/drawable-mdpi-v4/alog_icon_treasure.png
+SHA1-Digest: rMI7l2pk+YQh/kT1fcHs4FdtqCI=
+
+Name: res/drawable-hdpi-v4/thumb_monster_192_mudman.png
+SHA1-Digest: QLocwdIkJ5Ab3TIfuBGsjs+vPZU=
+
+Name: res/drawable-mdpi-v4/item_holy_symbol.png
+SHA1-Digest: RdvOGbwb4H7aMzBTBfgRMcIrm6U=
+
+Name: res/drawable-mdpi-v4/monster_075_sphinx.png
+SHA1-Digest: +NRGaT5cDeaM+HBLp2SX8vfsM3M=
+
+Name: res/drawable-mdpi-v4/alog_icon_event.png
+SHA1-Digest: 1PHu6TFLxmK6mfxG7OmvRw1N/Gs=
+
+Name: res/drawable-hdpi-v4/thumb_monster_102r_cloud_giant.png
+SHA1-Digest: QqYOKA1iJpFYfrZbyCMELIFaQL4=
+
+Name: res/drawable-hdpi-v4/char124_actor134.png
+SHA1-Digest: dMd+D+DCYDuhpVEyK/ZnHKKqBIw=
+
+Name: META-INF/androidx.loader_loader.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_111r_vorpal_bunny.png
+SHA1-Digest: U+gaaNfCku4mBDbhg238iXEhmEQ=
+
+Name: res/drawable-hdpi-v4/thumb_monster_194_berserker.png
+SHA1-Digest: 6ZL4sx1UHpuuJlUHxjNwbZQxfn4=
+
+Name: res/drawable-mdpi-v4/flog_icon_surprise.png
+SHA1-Digest: u+QWOvk9oguBwzSz7xetUtIddbg=
+
+Name: res/drawable-hdpi-v4/tab_edge_of_town.png
+SHA1-Digest: p+Vj+xaPY5/B9Qnt3iEt8YouCYo=
+
+Name: res/drawable-hdpi-v4/thumb_monster_121r_stirge.png
+SHA1-Digest: IE+IhCtJlspsRSNQtAwSBLEV4yA=
+
+Name: res/drawable-hdpi-v4/char106_actor106.png
+SHA1-Digest: s2QdimWLacMsALEAxH5qxKnmOlc=
+
+Name: res/drawable-hdpi-v4/char008_actor123.png
+SHA1-Digest: KpE6d/p+BB2pac0uRLL84EqvG4o=
+
+Name: res/drawable-mdpi-v4/arrow_ueshitamigi.9.png
+SHA1-Digest: X4slvLPV0XFQgOkOjVCUp2ntRmY=
+
+Name: res/drawable-hdpi-v4/char130_actor28.png
+SHA1-Digest: 4Vg+ailVvMENZmUtknAaZf4GOvU=
+
+Name: res/drawable-mdpi-v4/monster_011r_high_orc.png
+SHA1-Digest: ocXAVZf+hKCQf5dt5U2vTfW40rg=
+
+Name: META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_173r_gloom_wing.png
+SHA1-Digest: iW8nOQqH9zBiFK/e2a6KDTCi8tQ=
+
+Name: res/drawable-hdpi-v4/char109_actor109.png
+SHA1-Digest: KxaWpgTt0qYXEhiLyYG9RP3B6Nw=
+
+Name: res/drawable-hdpi-v4/thumb_monster_168r_cave_man.png
+SHA1-Digest: QZRsxQtZ9SGLW95FMaenT99T+x0=
+
+Name: res/drawable-hdpi-v4/thumb_monster_148r_shade.png
+SHA1-Digest: pEH63YjyJTLc735rPHw8s0VrnsA=
+
+Name: res/drawable-mdpi-v4/item_scalpel.png
+SHA1-Digest: vBj+K2GSGaqKJ3Xx295cII8UPPo=
+
+Name: res/drawable-xhdpi-v4/arrow_migiya.9.png
+SHA1-Digest: e0EK/vbEfVdaL61Xo+GQNwuBfoY=
+
+Name: res/drawable-hdpi-v4/thumb_monster_085r_mod_black_bear.png
+SHA1-Digest: nQ8PgWEH5nHrSC18LhS3QJn3QZE=
+
+Name: res/drawable-mdpi-v4/monster_085_grizzly.png
+SHA1-Digest: aunKFf7CY0XJqQsCZLmEaLsbqrY=
+
+Name: res/drawable-hdpi-v4/thumb_monster_102_hill_giant.png
+SHA1-Digest: wUQsmXeCfvrpyC6LkDq1N8Ob+ts=
+
+Name: res/drawable-hdpi-v4/char068_actor91.png
+SHA1-Digest: U92TpgE/HdksYYKYpD0480K6DG0=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: leHcJ9f1etOkeYUYgLjdtPlznbc=
+
+Name: res/drawable-hdpi-v4/thumb_monster_162_sea_serpent.png
+SHA1-Digest: NAGOk3S64MNs+VQ97nAsaPt1rCA=
+
+Name: res/drawable-hdpi-v4/char060_actor79.png
+SHA1-Digest: s2plMh+RGeXrFzNtZmTcT7ahncM=
+
+Name: res/drawable-mdpi-v4/item_gram.png
+SHA1-Digest: NBZItYegBxjWa5JBKkUV8CWPQwg=
+
+Name: res/drawable-mdpi-v4/monster_238r_banshee.png
+SHA1-Digest: 2nTLzpSh4dPEaRJgTYSwM72J5iQ=
+
+Name: res/drawable-hdpi-v4/char161_actor138.png
+SHA1-Digest: MFKhEC1SlhdOHbpXZYbdo0wrDcI=
+
+Name: META-INF/android.arch.core_runtime.version
+SHA1-Digest: OxxKFJcpzAROGjnfMbNijNv1+JU=
+
+Name: res/drawable-mdpi-v4/item_magic_staff.png
+SHA1-Digest: FZZpE3Ohnj/xOuE11CEycST2ZXo=
+
+Name: res/drawable-mdpi-v4/alog_icon_enter_block_normal.png
+SHA1-Digest: m1fw6PLsQ87ksKF9g9I29TP9hDM=
+
+Name: res/drawable-mdpi-v4/alog_icon_encounter_lose.png
+SHA1-Digest: MLVbt7kWL7sgn/ezylu+2GpkGMk=
+
+Name: res/drawable-hdpi-v4/thumb_monster_089_yamatanoorochi.png
+SHA1-Digest: NXY8GUd33Rh3pdGN1ju6gM0fcxM=
+
+Name: res/drawable-mdpi-v4/monster_259_wyvern.png
+SHA1-Digest: WnKWUDpnqN/ScCk9mHcXNjiokvg=
+
+Name: res/drawable-xhdpi-v4/nend_ad_full_board_close.png
+SHA1-Digest: FZu2is5zrwjPXp52SsWVLBDTVBo=
+
+Name: res/layout-v17/notification_template_media.xml
+SHA1-Digest: wJUKidy3JojwgbzIeKasHeTc6rw=
+
+Name: res/drawable-mdpi-v4/monster_269r_centaur.png
+SHA1-Digest: Gy1EgOAS9/UUzk20Qxo0FzyM+xM=
+
+Name: res/drawable-mdpi-v4/monster_192_mudman.png
+SHA1-Digest: QLocwdIkJ5Ab3TIfuBGsjs+vPZU=
+
+Name: res/drawable-mdpi-v4/item_graywand.png
+SHA1-Digest: slUU1z8wHZ2f0LDAvNkFY3SK9ww=
+
+Name: res/drawable-mdpi-v4/item_demon_amulet.png
+SHA1-Digest: MLN1kMAEeJQ8WXtGeX/lfuJa7MQ=
+
+Name: res/layout/log_view_list_item.xml
+SHA1-Digest: 7I4ogyZAaTNbd78+IEhUknIhHzg=
+
+Name: play-services-measurement-sdk-api.properties
+SHA1-Digest: J4cEDotNjbcvDdLCHo6bPQmukxY=
+
+Name: res/drawable-mdpi-v4/monster_009_roper.png
+SHA1-Digest: akIddpvrA12tdez5toy9A5VxjMY=
+
+Name: res/drawable-hdpi-v4/char148_actor78.png
+SHA1-Digest: PF1Sh4RVDzJ9Zi39B42sds7eEAc=
+
+Name: res/layout-land/activity_nend_ad_full_board.xml
+SHA1-Digest: 8tlR49lIUHGGd4bPx1BWtMoTMAA=
+
+Name: res/drawable-mdpi-v4/item_dagger_of_thieves.png
+SHA1-Digest: Iy1cu6HhqzRRa9RQYLt/+FRGX7s=
+
+Name: res/drawable-hdpi-v4/char056_actor72.png
+SHA1-Digest: kQdW/WvYc9gMFhW3CI0TVaaruFg=
+
+Name: res/drawable-mdpi-v4/monster_213_bishop.png
+SHA1-Digest: CyuiiJTR5SBRn1O2dFbX/G3AAhk=
+
+Name: res/layout/edge_of_town_in_town.xml
+SHA1-Digest: j4qu9uR34NKNGyryvOS2hybiM5A=
+
+Name: META-INF/androidx.asynclayoutinflater_asynclayoutinflater.versio
+ n
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_252_couatl.png
+SHA1-Digest: uuY7VWAhi1JaMplnN+MU0y/7s2Q=
+
+Name: res/drawable-hdpi-v4/thumb_monster_052r_goblin.png
+SHA1-Digest: tlsUBXVCKm/S/k5SrVrd8l6Fnw0=
+
+Name: res/drawable-hdpi-v4/char035_actor42.png
+SHA1-Digest: bmL6MO1rbkMpIvM9aTIQB31N1cI=
+
+Name: res/drawable-hdpi-v4/char046_actor57.png
+SHA1-Digest: Tj283Qv2Jb7lZyzJUesVlsqUKtM=
+
+Name: res/drawable-mdpi-v4/item_paper_folder.png
+SHA1-Digest: F+yzAywgASmrZyRoH6KJHv2CX70=
+
+Name: res/drawable-hdpi-v4/thumb_monster_146r_mummy.png
+SHA1-Digest: 9x4/6iXmBq7kKFAkpZtrhoWBjvQ=
+
+Name: res/drawable-mdpi-v4/item_robe.png
+SHA1-Digest: +KtSULRmFQ4PRN3oxptWqmWty/U=
+
+Name: res/drawable-mdpi-v4/monster_173r_gloom_wing.png
+SHA1-Digest: aOYvxyomOoKsWHdC28SlyiXeSA0=
+
+Name: res/drawable-hdpi-v4/thumb_monster_237r_lord.png
+SHA1-Digest: MdsLc4p8mc/27YYkBkO9PdQ4Dqw=
+
+Name: res/drawable-mdpi-v4/monster_009r_shreeker.png
+SHA1-Digest: Zt9xlySuQGVO8epMWGA5TUCmzjE=
+
+Name: res/drawable-mdpi-v4/monster_214r_priestess.png
+SHA1-Digest: A4kaoCId/FS+MPFmwLVBfwn6AH8=
+
+Name: assets/nend_information_icon.png
+SHA1-Digest: Bxz3paCMxnMwelXJPabR4dxPLXk=
+
+Name: res/drawable-mdpi-v4/monster_170r_storm_giant.png
+SHA1-Digest: 2chZyM7NR7N28lKBU9erym+9a4M=
+
+Name: play-services-gass.properties
+SHA1-Digest: j+nNQm/vK9t8IIXr1FRdcgCWaVo=
+
+Name: res/drawable-mdpi-v4/alog_icon_encounter_got_item.png
+SHA1-Digest: e9aLtyhdXiKDFYlh4xiuQagV5Ps=
+
+Name: res/drawable-hdpi-v4/char009_actor124.png
+SHA1-Digest: jun7Pgt+QgzYJ8I9WbDNUxkkCfQ=
+
+Name: res/drawable-mdpi-v4/flog_icon_encounter.png
+SHA1-Digest: 7fsfceVqh+hoLJwNprQxSjLMQKc=
+
+Name: res/drawable-mdpi-v4/monster_194r_warrior.png
+SHA1-Digest: FzjBvUKfGJcJDh3KtQkkqduVVJs=
+
+Name: res/drawable-hdpi-v4/char000_default.png
+SHA1-Digest: 56jmLpoDMyiwMZ1XRuVbTgpuI9U=
+
+Name: res/drawable-hdpi-v4/char118_actor125.png
+SHA1-Digest: aBjtcryjZrKbf/pDzW2Z3wu2HiY=
+
+Name: res/drawable-hdpi-v4/thumb_monster_213r_cleric.png
+SHA1-Digest: 1ufHG3OzJnF8Q86SxwgdOysH74s=
+
+Name: res/drawable-hdpi-v4/thumb_monster_057_giant_centipede.png
+SHA1-Digest: XAIaFlT/NKlaHpz7LA9AM4ZPli4=
+
+Name: res/drawable-xxxhdpi-v4/nend_ad_video_mute_on.png
+SHA1-Digest: 9mXPxiTX8oag/Bqoq7KbnW3ZA8E=
+
+Name: res/drawable-hdpi-v4/char054_actor71.png
+SHA1-Digest: 0CDgA/bebwSq52dYHK+vCokeoFU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_190r_warlock.png
+SHA1-Digest: aopgpgmFbdFXyINc9yJF0XXqL0c=
+
+Name: res/drawable-hdpi-v4/thumb_monster_139r_werebear.png
+SHA1-Digest: 0oCNNeMdweXvvPOrqRGokz5eobY=
+
+Name: res/drawable-hdpi-v4/char004_actor114.png
+SHA1-Digest: bNIBsl7/A9fHdtg+h7fZJ8b3p7M=
+
+Name: res/drawable-hdpi-v4/thumb_monster_120r_mizuchi.png
+SHA1-Digest: 9efff+lRZVOPeX3wEDJx6FIeLZA=
+
+Name: res/drawable-hdpi-v4/char026_actor30.png
+SHA1-Digest: /FhTDCZRq+5F61ICbuy42g6UXWE=
+
+Name: res/drawable-hdpi-v4/thumb_monster_104_gargoyle.png
+SHA1-Digest: iAM6FOOtafwKPyMrR7aXV/7NOms=
+
+Name: res/drawable-mdpi-v4/monster_114r_manticore.png
+SHA1-Digest: zw04Wyxb6kye3QcL2Lt0Jmj8+aA=
+
+Name: META-INF/androidx.drawerlayout_drawerlayout.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-mdpi-v4/item_default.png
+SHA1-Digest: VOkW7pJxCCZVRbKcBdz2jyy/DwI=
+
+Name: res/drawable-hdpi-v4/thumb_monster_263_kerberos.png
+SHA1-Digest: iufPvYnVaMQ7TYyC3WHxxCFkEMo=
+
+Name: res/drawable-hdpi-v4/char003_actor112.png
+SHA1-Digest: aTrmg1io2ksNQuH1cnsLF14MqBg=
+
+Name: res/layout-v17/notification_action.xml
+SHA1-Digest: WthyQkrA3Iku/xrxihlDTewlkL8=
+
+Name: res/drawable-mdpi-v4/monster_130r_earth_elemental.png
+SHA1-Digest: HnHYV+8v4jfUjmWSR1QComSodPs=
+
+Name: res/drawable-hdpi-v4/char071_actor94.png
+SHA1-Digest: jgS/m6f3NVSVjJKSgUTkSwLdCNE=
+
+Name: res/drawable-mdpi-v4/monster_088_tengu.png
+SHA1-Digest: T+FvDB9WWj1w/qfx1xc6q0oNENo=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: NP77wvGcwseigxPz8Z8jideVqXk=
+
+Name: res/drawable-mdpi-v4/monster_261_shambling_mound.png
+SHA1-Digest: /ODc9GG/rPoHtedm+pYQeCRBSZw=
+
+Name: res/drawable-mdpi-v4/monster_245r_dark_knight.png
+SHA1-Digest: WiFn+opLOimKLgOw3t4GMh7xx3k=
+
+Name: res/layout/notification_template_media_custom.xml
+SHA1-Digest: C3GMQi2dGiQhr1FyWHjlH51Pbbs=
+
+Name: res/drawable-mdpi-v4/monster_263_kerberos.png
+SHA1-Digest: Muwe+EvwTv/AYNFpGZotlTqs07M=
+
+Name: res/drawable-mdpi-v4/monster_119_eel.png
+SHA1-Digest: xjfc7K8o9e6KI3oaKoq2xUeyshc=
+
+Name: res/drawable/nend_ad_video_mask.xml
+SHA1-Digest: epoXA8hLrh7cP6yVpdN4032xLaA=
+
+Name: res/drawable-mdpi-v4/monster_196r_wizard.png
+SHA1-Digest: WjTtXFu6v/AvhbZs4qriq+QHFsA=
+
+Name: res/drawable-hdpi-v4/char153_actor88.png
+SHA1-Digest: py+AKkSS3kizctpyxK7g9pDGjrg=
+
+Name: res/drawable-hdpi-v4/thumb_monster_228r_ancient_dragon.png
+SHA1-Digest: Jn94OC9yo0Akf5FL9vs85twgVg8=
+
+Name: res/drawable-hdpi-v4/char069_actor92.png
+SHA1-Digest: 79RUlCabQTlLAfoN0Z1K8/2BU9M=
+
+Name: res/drawable-mdpi-v4/monster_034_charon.png
+SHA1-Digest: PCo6OTbFkvcqxYqdg27sZAW6toM=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: iJFesSsAAmE1zFB9XbiCZW1cKKU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_265_naga.png
+SHA1-Digest: xNz4yxyKO/1V8dsYqbU1wtMk7oQ=
+
+Name: res/drawable-mdpi-v4/monster_106r_shaman.png
+SHA1-Digest: ROSWx3D8cLZYgbAmLiJJ6kQI0WE=
+
+Name: res/drawable/list_item_background_log_warn.xml
+SHA1-Digest: hKgqgRwkiPUN/z5BwbrIFZC6l0Y=
+
+Name: res/drawable-mdpi-v4/monster_126_giant_frog.png
+SHA1-Digest: c8AaPTLXetHhNMwZo1tOOTBgE5k=
+
+Name: res/drawable-hdpi-v4/char001_actor101.png
+SHA1-Digest: Iy8Q8RDxvH/wqCNF39ESp5d4mSY=
+
+Name: res/drawable-mdpi-v4/monster_121r_stirge.png
+SHA1-Digest: 8efx0mchmyCfA2SNJ8HTWgehT88=
+
+Name: res/drawable-mdpi-v4/item_short_sword.png
+SHA1-Digest: TKeZ6Wrz7LjeRhqG1tAySYFktYo=
+
+Name: res/drawable-hdpi-v4/thumb_monster_218r_mod_hatamoto.png
+SHA1-Digest: 7exp4/2VP7J5dFRjTo/bXYnYSsE=
+
+Name: res/layout/notification_template_lines_media.xml
+SHA1-Digest: exoa71T7qvcQK/g4H4CKMfnxMuo=
+
+Name: res/drawable-mdpi-v4/monster_258_blue_dragon.png
+SHA1-Digest: eAqTvqiOXzt0qkt8jlTrjAwIEbI=
+
+Name: res/drawable-hdpi-v4/char147_actor76.png
+SHA1-Digest: OK5KHsmKAokc7DPBC7x6XpLabFo=
+
+Name: res/drawable-mdpi-v4/item_fighter_symbol.png
+SHA1-Digest: 3VG3ueuH9hL5Tqyi2UKAId9BisY=
+
+Name: res/drawable-mdpi-v4/item_mjolnir.png
+SHA1-Digest: W1XN7EKLwbuYvcd02gcm5esN/o0=
+
+Name: res/drawable-hdpi-v4/thumb_monster_228_behemoth.png
+SHA1-Digest: 4DxJMLcAIqLgxSXDcp5EtcYL2j4=
+
+Name: res/drawable-hdpi-v4/npc_halfling_actor84.png
+SHA1-Digest: dprkv8tQR1D3Or2QvLco/1UwkBU=
+
+Name: res/layout/advanced_tactics_condition.xml
+SHA1-Digest: 7y8V4Z+yQ9FUkGqKGFeiskYepkI=
+
+Name: res/drawable-hdpi-v4/char013_actor13.png
+SHA1-Digest: BFN/OXO2dIneX/iNryX6jPusK6o=
+
+Name: res/drawable-mdpi-v4/monster_218r_mod_hatamoto.png
+SHA1-Digest: olqFwGYV9lhPJLDSGcUJ2oOohIM=
+
+Name: res/drawable-xhdpi-v4/arrow_ueshita.9.png
+SHA1-Digest: NSMkBxBIY/kZNvQ0OVgpZrpYaHo=
+
+Name: res/drawable-hdpi-v4/thumb_monster_109_necromancer.png
+SHA1-Digest: 2oBTvYEc5g/b9E1ZW/zALbCVerQ=
+
+Name: res/drawable-hdpi-v4/thumb_monster_240r_moloch.png
+SHA1-Digest: Y/NBOVsZB1Zg0GE8gOGcMOLHUz0=
+
+Name: res/drawable-mdpi-v4/monster_069r_purple_worm.png
+SHA1-Digest: 7oorc3girchCudYvBW21E5UiYjs=
+
+Name: res/drawable-hdpi-v4/char034_actor41.png
+SHA1-Digest: K3ywFYQRVp7GrQx7yRT8QB7f5z0=
+
+Name: res/drawable-mdpi-v4/monster_201r_carbuncle.png
+SHA1-Digest: ovlXwp0c4zkUgISthiGNU12I0CA=
+
+Name: res/drawable-ja-xhdpi-v4/story2.jpg
+SHA1-Digest: IeKlVVD0diEyXCLTQu2wss63TnA=
+
+Name: res/drawable-hdpi-v4/char143_actor64.png
+SHA1-Digest: IjBKnWSTkCE9/YLabX5FmP/1Xyg=
+
+Name: res/drawable-mdpi-v4/item_secret_scroll.png
+SHA1-Digest: 3VG3ueuH9hL5Tqyi2UKAId9BisY=
+
+Name: res/drawable-hdpi-v4/thumb_monster_085_grizzly.png
+SHA1-Digest: ohKjcElH/s51dO2WPYs4k+O6cxs=
+
+Name: res/drawable-hdpi-v4/char202_actor52.png
+SHA1-Digest: 9mX5srqVvPkodTwr7OcHaYXaBbw=
+
+Name: res/layout-v17/browser_actions_context_menu_row.xml
+SHA1-Digest: fy6E/v3o3BTb+2pqB1ivQ65hXoQ=
+
+Name: res/drawable-v21/nend_ad_full_board_action_button.xml
+SHA1-Digest: nu24QZ3/L92Cc6X88VJeJtqg5Hk=
+
+Name: res/drawable-hdpi-v4/char029_actor35.png
+SHA1-Digest: aCx1MtQFU3sZqEMGl0X0/depcvg=
+
+Name: res/drawable-mdpi-v4/monster_097_lizard_man.png
+SHA1-Digest: prNG9lOpyETsFgXvMm4bTwmLv+c=
+
+Name: res/drawable-hdpi-v4/char103_actor102.png
+SHA1-Digest: 3aDY/CgSlyayyLd/ddNByyC3+EA=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: D2PhKM51tYZo8a79riJ3XiUD2nc=
+
+Name: res/drawable-mdpi-v4/monster_250r_talos.png
+SHA1-Digest: 1yf0bvv73eXXQcf9XQ/Qdbk8q38=
+
+Name: META-INF/androidx.legacy_legacy-support-core-ui.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-xhdpi-v4/nend_ad_video_mute_off.png
+SHA1-Digest: t1L2CMLkb7sABzxLpy5TS3fIuyk=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher_lq2.png
+SHA1-Digest: SARbvZJ5vjFYqfIUER3L4Rn+19U=
+
+Name: res/drawable-mdpi-v4/alog_icon_enter_dungeon.png
+SHA1-Digest: pNE/blpfMCnyB8Zkr+0ystK/qkQ=
+
+Name: res/drawable-mdpi-v4/monster_146r_mummy.png
+SHA1-Digest: d9DKOGNaHQ4b2eHFq2Td2cPbCA8=
+
+Name: res/drawable-mdpi-v4/item_laevateinn.png
+SHA1-Digest: ZejMIRtV49qz2bLGYPqmNcmdO68=
+
+Name: res/drawable-mdpi-v4/monster_038_giant_beetle.png
+SHA1-Digest: BOfr/VNfz6qbVPieSeQj9GnAi9Q=
+
+Name: res/drawable-hdpi-v4/char059_actor77.png
+SHA1-Digest: nOWrTWbZ2K36yhq7YkSREUC0zwM=
+
+Name: res/drawable-mdpi-v4/monster_086_ogre.png
+SHA1-Digest: /fQSz3qYsdo57U/HMPYRDOntiks=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: dnObiFrk1DvtR5VGgJWQwE6oNeo=
+
+Name: res/drawable-mdpi-v4/item_garb_of_lords.png
+SHA1-Digest: Jt2vhDzUeWABH5HGucJjP40JHoU=
+
+Name: res/drawable-mdpi-v4/item_magic_potion.png
+SHA1-Digest: sX1957VTH/elhh8TFp4urIWQhpE=
+
+Name: res/drawable-mdpi-v4/monster_036_giant_lizard.png
+SHA1-Digest: FhuSHOawk/p6asuqXWDnHu1w+mE=
+
+Name: res/drawable-hdpi-v4/char062_actor81.png
+SHA1-Digest: 35MF7+D73Z8CCwR2I0qrBXJM1no=
+
+Name: res/layout-v17/notification_template_big_media_narrow.xml
+SHA1-Digest: tmzQRjS9G5q9Lw0cWOua4x8leis=
+
+Name: res/drawable-hdpi-v4/thumb_monster_170r_storm_giant.png
+SHA1-Digest: Ir2hS9S5rYH/6P5yhCn711NyDOI=
+
+Name: res/drawable-mdpi-v4/monster_239r_lucifer.png
+SHA1-Digest: ObWP1ttZkE5KgIQgT3NFymbo6FE=
+
+Name: res/layout/notification_template_media.xml
+SHA1-Digest: QOk5tqz4usFDeN3JYtSN16SuBV8=
+
+Name: res/drawable-hdpi-v4/thumb_monster_281r_barolg.png
+SHA1-Digest: 3iiPw51Pu/2OPKVJFlkV+xccHvQ=
+
+Name: res/drawable-mdpi-v4/monster_174r_gremlin.png
+SHA1-Digest: Ychf0J2Z7LIa0/pGGGPKbNxYjIc=
+
+Name: res/drawable-mdpi-v4/item_medal_of_lords.png
+SHA1-Digest: ifxEUfGljzCbR3AE2yG2qfZXolY=
+
+Name: res/layout/list_item_separator.xml
+SHA1-Digest: SNW8i99MIY4m75qD/0rv6/Tm+co=
+
+Name: res/drawable-mdpi-v4/alog_icon_encounter_run.png
+SHA1-Digest: 75KdkQoTOAXxwYa/IupHdIkwfkU=
+
+Name: res/drawable-mdpi-v4/item_traitor.png
+SHA1-Digest: 6+0O6o/Ib8rdwO3+lVe4ytdymV8=
+
+Name: res/drawable-hdpi-v4/char132_actor33.png
+SHA1-Digest: Vhc/ysZnAkHt1wFcYBgSa93LeZw=
+
+Name: res/drawable-mdpi-v4/item_magic_book.png
+SHA1-Digest: /Z7EDId2SBK+UXhJmSWVDL2dJPE=
+
+Name: res/layout-v17/notification_template_custom_big.xml
+SHA1-Digest: QQoBsfpO0xr8LFMtY2r1W5XIXZI=
+
+Name: res/drawable-hdpi-v4/thumb_monster_097_lizard_man.png
+SHA1-Digest: IkXyf4tsK2t8LO5j4x2QMikP6Ag=
+
+Name: res/drawable-mdpi-v4/arrow_migiya.9.png
+SHA1-Digest: LTlMPZZuDEEZK8zVZfeExIx7d/c=
+
+Name: res/drawable-hdpi-v4/thumb_monster_030r_air_elemental.png
+SHA1-Digest: vKdDQQcPflxuoLqXaO0Y9A+sphw=
+
+Name: res/layout/town.xml
+SHA1-Digest: /WUFjHxwxRO62Ktyi7WlFKjHjvs=
+
+Name: res/drawable-hdpi-v4/char121_actor131.png
+SHA1-Digest: DD66cdecrdx3wL3e7Wa/uI95IMU=
+
+Name: res/drawable-mdpi-v4/item_lamellar.png
+SHA1-Digest: 7lL3xVu52u4t+kGnL/oshr4GlD0=
+
+Name: res/drawable-hdpi-v4/char010_actor127.png
+SHA1-Digest: 4CQYi5W128Dgzvh5SD2l9RGDX/M=
+
+Name: res/drawable-mdpi-v4/item_leather_armor.png
+SHA1-Digest: ifjQuASNDaW8cf39PzVGM2Fk7qk=
+
+Name: res/drawable-mdpi-v4/monster_189r_owlbear.png
+SHA1-Digest: shiEnE3R2bN5fAb1TohJ3Q5YEPo=
+
+Name: res/layout/monster_detail.xml
+SHA1-Digest: gfCPup6WrsbbNHM6MLz2Z2kxxX8=
+
+Name: res/drawable-hdpi-v4/char028_actor32.png
+SHA1-Digest: cxV1RmvCfEXTPwYHMrQIQWiVE+U=
+
+Name: res/drawable-mdpi-v4/monster_199_guardian.png
+SHA1-Digest: 1+I1E5A7laoACxn0fKGk7kWsqzQ=
+
+Name: res/drawable-mdpi-v4/monster_260_black_dragon.png
+SHA1-Digest: 93AznNXLtxBJq50/rdwVB/nJis8=
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: 3bOad69zKrf8FEd9FvVvyQFpVjg=
+
+Name: res/drawable-mdpi-v4/monster_184_wolf.png
+SHA1-Digest: C8E+fXqAOTbvrqwrnhdGWIMZZ4g=
+
+Name: res/drawable-mdpi-v4/monster_288r_hell_hound.png
+SHA1-Digest: kA+C9ZoGRHxB8v1oIVAy4P4y/pE=
+
+Name: res/drawable-mdpi-v4/item_small_shield.png
+SHA1-Digest: ejbdElwb5kn7EsF9uAtLJk6/iS8=
+
+Name: res/drawable-hdpi-v4/thumb_monster_199_guardian.png
+SHA1-Digest: Gor8WK8KjIl5QMqxUMqKZ5/CZNM=
+
+Name: res/layout/log_view_list_item_fight.xml
+SHA1-Digest: Ydw8ibhYRZ/rGs803oTs8cBHUNg=
+
+Name: res/drawable-hdpi-v4/tab_trading_post.png
+SHA1-Digest: JnnuH9agiwbhOAMWyL/zvZ3Bibw=
+
+Name: res/drawable-hdpi-v4/char021_actor21.png
+SHA1-Digest: /A86LaIxE0oA66HWeHHa+PnaLUY=
+
+Name: res/drawable-mdpi-v4/item_prytwen.png
+SHA1-Digest: jwx9KGnblZV7EPJ8OLTL7RHDyRI=
+
+Name: res/drawable-mdpi-v4/monster_169r_saccubus.png
+SHA1-Digest: iDFZKCEKbBv5xg1ayRkPPCqoJ40=
+
+Name: res/layout-v17/notification_template_big_media_custom.xml
+SHA1-Digest: jfchYj+ZQ1aDRxxTKGJyHl21HCw=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: URz3Lz/tIjMAtXfNHimWcDQLTtQ=
+
+Name: res/drawable-mdpi-v4/item_battle_axe.png
+SHA1-Digest: M1SsYI3FtrkvXjEZResb/EW+ux0=
+
+Name: res/drawable-mdpi-v4/monster_210_greater_demon.png
+SHA1-Digest: 9CB6WOH7pxL9bxF4KC/ctFDjvew=
+
+Name: META-INF/androidx.documentfile_documentfile.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-mdpi-v4/monster_176_peryton.png
+SHA1-Digest: apANqOm/SyqrIJ9XMpzd7Pyc3W8=
+
+Name: res/layout/detailed_status_dialog.xml
+SHA1-Digest: UMDBb+KrCxFWFUHXTLM0pr8iLJI=
+
+Name: res/drawable-xxxhdpi-v4/nend_ad_video_cta.png
+SHA1-Digest: /ynPiZFlompbGewJnw96rjaByck=
+
+Name: res/drawable-mdpi-v4/item_war_hammer.png
+SHA1-Digest: g37Fl9ph6mFKipyy/q1BQDb7P3Y=
+
+Name: res/drawable-hdpi-v4/bg_introduction.jpg
+SHA1-Digest: bS3nX2SJWj/tXSgKDT7LGaHVgwA=
+
+Name: res/drawable-xxxhdpi-v4/nend_ad_video_close.png
+SHA1-Digest: uZ+tWLsSbGS8ekEoc+ygzbYk9XQ=
+
+Name: res/drawable-mdpi-v4/item_raijodo.png
+SHA1-Digest: hrZfvR7YXggeeOyKdbMI6+gN8Ac=
+
+Name: res/drawable-hdpi-v4/char122_actor132a.png
+SHA1-Digest: 2B6UX8OFWkQSEiYEiwJvwKvJxlk=
+
+Name: META-INF/androidx.core_core.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-mdpi-v4/monster_085r_mod_black_bear.png
+SHA1-Digest: FIUTv0L1d4PrBaXOe5fmX0TjMtk=
+
+Name: AndroidManifest.xml
+SHA1-Digest: E2r//uKXyXowcHCEeZSPH3wkVT4=
+
+Name: res/drawable-hdpi-v4/char055_actor71_b.png
+SHA1-Digest: gA+iEbyf15OY1DIqkqaoELufdFI=
+
+Name: res/drawable-mdpi-v4/monster_052r_goblin.png
+SHA1-Digest: Y70IYUBc899Q5qbWTsFxv7VkoZI=
+
+Name: res/layout/directory_dialog_item.xml
+SHA1-Digest: PHAzlEWwPW+bR012TSRt59b7qyU=
+
+Name: res/drawable-hdpi-v4/char149_actor8.png
+SHA1-Digest: 2XZigrRCi30XnJr+nwo0j5snB4M=
+
+Name: res/drawable-mdpi-v4/item_kingdom_order.png
+SHA1-Digest: rd8jZMLOHTdfPx4oa+ZIRFicTjY=
+
+Name: res/layout-port/activity_nend_ad_full_board.xml
+SHA1-Digest: 0lQqfZRYUmr7FHhPr/7axbtGqv4=
+
+Name: res/drawable-mdpi-v4/item_buckler.png
+SHA1-Digest: Fv9PoehaXTe27qp5aSdjmIufgk0=
+
+Name: res/drawable-mdpi-v4/item_thieves_guild.png
+SHA1-Digest: JRGTNUno7Hoq6EsWPr0V/aj3dls=
+
+Name: classes.dex
+SHA1-Digest: jin2/ANYi8ffKWON2gDgsxUVz1c=
+
+Name: res/drawable-hdpi-v4/thumb_monster_213_bishop.png
+SHA1-Digest: BFq5p+bFgLYqsSRtqRluiWMJ0nQ=
+
+Name: res/layout/notification_template_big_media.xml
+SHA1-Digest: 3ZCkBkuLg2Jn4Kl56Y8+Q6s44K4=
+
+Name: META-INF/androidx.exifinterface_exifinterface.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-hdpi-v4/char146_actor74.png
+SHA1-Digest: tTg2xqTrl3tNjD0sTHKZiiIo97Y=
+
+Name: res/drawable-mdpi-v4/alog_icon_complete.png
+SHA1-Digest: PbyrkOYbPwnU4kj83PgogT/6mmU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_008_ape.png
+SHA1-Digest: 031FbkxXIAWCmykVyV9R8kpvwyE=
+
+Name: res/drawable/log_char_image_bg.xml
+SHA1-Digest: oiNYdCFXvk/LKf9tjeVghydlcPM=
+
+Name: res/drawable-mdpi-v4/item_aigis.png
+SHA1-Digest: 7KWhFLh1I8oClQtEr/msNmN0cKU=
+
+Name: res/drawable/list_item_background_normal.xml
+SHA1-Digest: 1/qSr7yP4zJiWQlkJU9f51o0gZo=
+
+Name: res/drawable-xhdpi-v4/nend_ad_video_close.png
+SHA1-Digest: ySPQ4uiIIno6PIuefGc9ptZrAsc=
+
+Name: res/drawable-mdpi-v4/alog_icon_trap.png
+SHA1-Digest: uKxKeKvwlpngChWrNqMg4QKBRE8=
+
+Name: res/drawable-mdpi-v4/item_tower_shield.png
+SHA1-Digest: FdcVDeYIu+mjlZbypN/cBSLUIs0=
+
+Name: META-INF/androidx.fragment_fragment.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_139_cyclops.png
+SHA1-Digest: zpEWt6tJKSP8FLF7QYfKCbMZIfc=
+
+Name: res/drawable-hdpi-v4/thumb_monster_208_griffon.png
+SHA1-Digest: fvyYxdeqDZrbdWfbxw5y/mkPuNQ=
+
+Name: res/drawable-mdpi-v4/item_long_sword.png
+SHA1-Digest: JAIOj9emlWI75E8mj3Xq+zcwknc=
+
+Name: res/drawable-mdpi-v4/item_gladius.png
+SHA1-Digest: Ywx4LFDcGDCiv2aCXlwCZYJtYPo=
+
+Name: res/drawable-hdpi-v4/char165_actor144.png
+SHA1-Digest: LYM9+39TOnaOYgMtZ0PhPSpGahk=
+
+Name: res/drawable-hdpi-v4/char065_actor85.png
+SHA1-Digest: EO6o+IR1j0EfizqKznNKIZiXVIo=
+
+Name: res/layout/browser_actions_context_menu_row.xml
+SHA1-Digest: gXrgo1YQRNgzq7UQnvO9k0Ypda4=
+
+Name: res/drawable-mdpi-v4/item_eriril.png
+SHA1-Digest: kvjFze987BFoBHVW3pbNY+ic3x8=
+
+Name: res/drawable-hdpi-v4/char108_actor108.png
+SHA1-Digest: eKxElydqMTcTcXkQUYA5fUI473Q=
+
+Name: res/drawable-mdpi-v4/item_muramasa_blade.png
+SHA1-Digest: vvAmZekOr4yWJemqwLeYEK0Al5w=
+
+Name: res/drawable-xhdpi-v4/nend_ad_video_mute_on.png
+SHA1-Digest: hzEFD2WwS8TgSkdeZWM9ArozWrY=
+
+Name: res/drawable-mdpi-v4/flog_icon_fight_win.png
+SHA1-Digest: 59/1T6eGxujUbwXnsgNnsYTx0fQ=
+
+Name: res/drawable-mdpi-v4/monster_140_phoenix.png
+SHA1-Digest: 2R39SOivI2ZZ82ARGw08bmfphng=
+
+Name: res/drawable-hdpi-v4/thumb_monster_143_skelton.png
+SHA1-Digest: 09au/wBb6YTaquHFqF963eaVUMw=
+
+Name: res/drawable-mdpi-v4/monster_065_mimic.png
+SHA1-Digest: 10ZiguBNCt7fhmrZP19JiPIHTwA=
+
+Name: res/drawable-hdpi-v4/thumb_monster_009r_shreeker.png
+SHA1-Digest: kxNLxfQrfR7VC3rf4ASIrlP1PKo=
+
+Name: res/drawable-mdpi-v4/monster_237r_lord.png
+SHA1-Digest: VFIXUZS7RxX3r5kSmr+7oLdui1I=
+
+Name: res/drawable-mdpi-v4/item_ring_sapphire.png
+SHA1-Digest: V/zfBzuC98cZXRwiQOYD7ElxWYA=
+
+Name: res/drawable-mdpi-v4/monster_057_giant_centipede.png
+SHA1-Digest: YBUbIIedjoWi9paaVb8DixWq4Tw=
+
+Name: res/drawable-mdpi-v4/monster_003r_black_pudding.png
+SHA1-Digest: Xfz907fG4If7qQtryOJECiPr/Zc=
+
+Name: res/layout/item_change_name_dialog.xml
+SHA1-Digest: EhvAIXmhCBqRDyQJ849rrbA2zPg=
+
+Name: res/drawable-hdpi-v4/char133_actor34.png
+SHA1-Digest: 1fMUjuBrlBatIaNO3GU7ID4t7UM=
+
+Name: res/drawable-mdpi-v4/item_rhongomiant.png
+SHA1-Digest: KvnQlH6EgnxRn+xLZXVx9DbtQV4=
+
+Name: res/drawable-mdpi-v4/monster_282r_bloodworm.png
+SHA1-Digest: NRyESg6i0Qd67drCMBrWIRQHeZY=
+
+Name: res/drawable-mdpi-v4/item_high_potion.png
+SHA1-Digest: aYg1rd+ATN+0oOJgqguqRs63PCU=
+
+Name: res/drawable-hdpi-v4/char126_actor14_color_01.png
+SHA1-Digest: QvTOcbjbiCEvWLbX3E/5Ifa5VIg=
+
+Name: res/drawable-hdpi-v4/thumb_monster_068_constricter.png
+SHA1-Digest: E5Iq2/BCuAjx65puBxNvMzAsZas=
+
+Name: res/drawable-hdpi-v4/thumb_monster_038_mod_dragon_fly.png
+SHA1-Digest: qD6k7sh6F/PdmPLkCynnqXZ6I64=
+
+Name: res/drawable-hdpi-v4/thumb_monster_070_kraken.png
+SHA1-Digest: +YXnFuWQIppoVacMWW/oT1bbZao=
+
+Name: res/drawable-hdpi-v4/thumb_monster_040_giant_ant.png
+SHA1-Digest: /J/tmGg5fKycBehBA6fRZqjFu5c=
+
+Name: res/drawable-hdpi-v4/char047_actor62.png
+SHA1-Digest: v36tKchzu6NX6pnY8+etDG3RQNo=
+
+Name: res/drawable-hdpi-v4/char036_actor43.png
+SHA1-Digest: Wd3tmrHgORk2Qk1Tzd4KQ+Vah/g=
+
+Name: res/drawable-hdpi-v4/char107_actor107.png
+SHA1-Digest: 2lvW1mYjELCSc2DS8JazaOJ9Z3A=
+
+Name: META-INF/androidx.print_print.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-mdpi-v4/item_ring_garnet.png
+SHA1-Digest: 2IhQqObDuZNxBIt+13s7sN7MtIo=
+
+Name: res/drawable-mdpi-v4/monster_004_gelatinous_cube.png
+SHA1-Digest: P6JMe/KQmqcfdBjWv8IFr6VY63Q=
+
+Name: res/drawable-hdpi-v4/thumb_monster_114r_manticore.png
+SHA1-Digest: 3pdXI0eklOxA2aFmNR5CcRddJQs=
+
+Name: res/drawable-ja-xhdpi-v4/logo_simple_360.png
+SHA1-Digest: wsak3nd6CQymsKKIprPKGUGVq0E=
+
+Name: res/drawable-hdpi-v4/thumb_monster_038_giant_beetle.png
+SHA1-Digest: 2g/2lrMZQWFHJ0Fu51jj8NbMAg8=
+
+Name: res/drawable-hdpi-v4/tab_inn.png
+SHA1-Digest: NlVknmj/3oE4jYjlfDVJQ5x/hs0=
+
+Name: res/drawable-mdpi-v4/item_high_magic_potion.png
+SHA1-Digest: cK2yVBOgY41ThdTdz3F2wNFCdyI=
+
+Name: res/drawable-hdpi-v4/char164_actor143.png
+SHA1-Digest: yjYfut19GXmwyGpEgsw6NYg06LI=
+
+Name: res/drawable-mdpi-v4/monster_121_giant_bat.png
+SHA1-Digest: lGvvdeKvT0jkgexL4v3t3tqCNOE=
+
+Name: res/drawable-xhdpi-v4/logo_simple_640.png
+SHA1-Digest: Tlh00M17fnHL3hKDwr0zC6/G2uY=
+
+Name: res/drawable-mdpi-v4/monster_134_troll.png
+SHA1-Digest: DziH1n237j6D2IDHWeVKY+BQ3CM=
+
+Name: res/drawable-mdpi-v4/item_gaebolg.png
+SHA1-Digest: SmkG2+fjvmztBrzF+AWRhMl4K0M=
+
+Name: res/drawable-hdpi-v4/char142_actor61.png
+SHA1-Digest: tVHj/n5NhNllppujbPPEofb7DAM=
+
+Name: res/drawable-mdpi-v4/monster_139r_werebear.png
+SHA1-Digest: URK+vZTI+7wg0DsS6cvc+jaKmsQ=
+
+Name: res/layout/directory_select_dialog.xml
+SHA1-Digest: Uueecd9nfQNcI3z3tBjEZqEX7tA=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: sUXBSDmIwrVhXMAYtsmpMAdZsVM=
+
+Name: res/drawable-mdpi-v4/alog_icon_start.png
+SHA1-Digest: dLmhog1zXJOJKBAHFNwqcZugMo0=
+
+Name: res/drawable-mdpi-v4/monster_240r_moloch.png
+SHA1-Digest: zEvAaVvknzy0dBwjUKYQDZEQMSU=
+
+Name: res/drawable-mdpi-v4/monster_073r_medusa.png
+SHA1-Digest: 9hL5qivcKJGv7sIrC/wJZzEH0Ys=
+
+Name: res/drawable-xhdpi-v4/ic_status_lq2.png
+SHA1-Digest: 7lkF8RmVhnvWwgJ+QXxXguhuB4U=
+
+Name: res/layout/list_item_item.xml
+SHA1-Digest: hWkGPyazaUGXvCLtRLFlUatbY6E=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: vwba/sGTpZtLjf/eisL+geY9O3c=
+
+Name: res/drawable-mdpi-v4/arrow_ueshita.9.png
+SHA1-Digest: RauLXW/1JPCfiK0qttKBGaXxmT0=
+
+Name: res/layout-large-v4/story.xml
+SHA1-Digest: dqDuKF8DzdEkJAtRv/YVwZvWymA=
+
+Name: res/layout/shop.xml
+SHA1-Digest: BEglVSLmbN1EVijr3O9XB68G9S4=
+
+Name: res/drawable-xxhdpi-v4/nend_ad_full_board_info.png
+SHA1-Digest: yPuH17bGIKq4499yOXOxICrIqzE=
+
+Name: res/drawable-hdpi-v4/thumb_monster_075_sphinx.png
+SHA1-Digest: u4TuUvZeDg0EJg2MW2ZfGobvWFw=
+
+Name: res/drawable-mdpi-v4/flog_icon_resist.png
+SHA1-Digest: lcG71QEk5J88saG2Oe7kS1J87qM=
+
+Name: res/drawable-mdpi-v4/monster_249_were_wolf.png
+SHA1-Digest: KRCS6Ye1YsP4Z830XLCpeMaL0j0=
+
+Name: res/drawable-mdpi-v4/monster_089_yamatanoorochi.png
+SHA1-Digest: ANLRhHuTIiLDvmS5OERmxjKsKmQ=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: jzCjY74/8xv9AEpeFMcbsxKVetg=
+
+Name: res/drawable-hdpi-v4/char011_actor128.png
+SHA1-Digest: yH3vZHdMyPO9T6srGExgIeJFy+w=
+
+Name: res/drawable-hdpi-v4/char111_actor110.png
+SHA1-Digest: 1k5g5P6BGud2WwU3q/956/PPIb4=
+
+Name: res/drawable-hdpi-v4/char159_actor99.png
+SHA1-Digest: rGIno1GHX9No9Wz83a4ctBG06SE=
+
+Name: res/drawable-hdpi-v4/thumb_monster_052_orc.png
+SHA1-Digest: g73PZuIHHN7FaKCh+Vdz3aqyTk8=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: DEwicMitpGDzDLNG/4wl9Tos5IU=
+
+Name: res/drawable-mdpi-v4/monster_138_fire_giant.png
+SHA1-Digest: oZZnDTwa8mgQlxXjrZIKJ9Wn3Pg=
+
+Name: res/drawable-ja-xhdpi-v4/logo_simple_640.png
+SHA1-Digest: v9LgCUA9js4rAPJOCwEaWa9xn5A=
+
+Name: res/drawable-hdpi-v4/thumb_monster_164_ettin.png
+SHA1-Digest: uj5e3eSXyuWzze0nEJjI/YHsg1k=
+
+Name: res/drawable-hdpi-v4/char020_actor19.png
+SHA1-Digest: OfXw9cdwZ5reJKx/RtBlg/iVWeE=
+
+Name: res/drawable-hdpi-v4/thumb_monster_026_efreeti.png
+SHA1-Digest: e8jdhTUmDQyhxiPBDpytCjFYIjo=
+
+Name: res/drawable-hdpi-v4/char045_actor56.png
+SHA1-Digest: 0DIInqaIjluf9WUtPo3qqOf+Sdg=
+
+Name: res/drawable-mdpi-v4/monster_209_gorgon.png
+SHA1-Digest: o4SCY/3v6yU0rr93NhOkxQ+eZs4=
+
+Name: res/drawable-hdpi-v4/char155_actor95.png
+SHA1-Digest: vuSvCi5ZyD6vNotPBBdaqQnQfDg=
+
+Name: res/drawable-mdpi-v4/alog_icon_encounter_win.png
+SHA1-Digest: aUxsohx3CdMuvvArpCZkAa7yCao=
+
+Name: res/drawable-hdpi-v4/thumb_monster_110_dark_lord.png
+SHA1-Digest: EKP8DaJkZwv5fdiv1PPLXV/+6kI=
+
+Name: res/drawable-hdpi-v4/char131_actor29.png
+SHA1-Digest: Xv1boJ3hOlZmIWeiO8GnhHPZ3r0=
+
+Name: res/layout/list_item_advanced_tactics.xml
+SHA1-Digest: HYyKmGEBdv/2D3cIFSGfs9ODegU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_218_ronin.png
+SHA1-Digest: kZ+J6ebT94ZSL+pbcYUQeVR4sx4=
+
+Name: res/drawable-mdpi-v4/monster_096r_crocodile.png
+SHA1-Digest: Tyx9Secc7AO4Sse31uLcwy7e5+0=
+
+Name: META-INF/android.arch.lifecycle_viewmodel.version
+SHA1-Digest: OxxKFJcpzAROGjnfMbNijNv1+JU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_257_white_dragon.png
+SHA1-Digest: ZzVGl95c/xfS+mF7T6JVdIl0JZo=
+
+Name: res/drawable-xxhdpi-v4/nend_ad_video_mute_off.png
+SHA1-Digest: nOm5JKHyPKQTytYP72BBWGF/saI=
+
+Name: res/drawable-mdpi-v4/monster_131_cockatrise.png
+SHA1-Digest: dBNR5q7w1iNeDhFdVpe3LZFb4UA=
+
+Name: res/drawable-mdpi-v4/monster_160r_chimera.png
+SHA1-Digest: eb2rr89YO+fGO4zprMBqTEVKKC0=
+
+Name: res/drawable-mdpi-v4/item_halbard.png
+SHA1-Digest: DLAYmzS8sKjfNNYNTJLRDhmV+04=
+
+Name: res/drawable-hdpi-v4/char058_actor75.png
+SHA1-Digest: AeAMN6nM5UguRp5QYV4C/+rfa6U=
+
+Name: res/layout-v17/notification_template_big_media.xml
+SHA1-Digest: 8NM3myMR4ppPmVlHGnPLYI/4VEA=
+
+Name: res/drawable-hdpi-v4/thumb_monster_126_giant_frog.png
+SHA1-Digest: LYq4Z6+1bpqCYXi/dXzm474g8Kw=
+
+Name: res/drawable-hdpi-v4/thumb_monster_033r_assassin.png
+SHA1-Digest: layHdE0dqcsdjVOzt0zbdW3JcGo=
+
+Name: res/drawable-mdpi-v4/monster_255r_gold_dragon.png
+SHA1-Digest: CN8vpWUT4s7HBpVrSCFFUJ96+zo=
+
+Name: res/layout-v17/notification_template_lines_media.xml
+SHA1-Digest: Nsb0RX9Bwdn3wH7yYqJkQxz2GwQ=
+
+Name: res/drawable-mdpi-v4/monster_102r_cloud_giant.png
+SHA1-Digest: 0TooDNsGmecJ+6qnQIQF5poiySQ=
+
+Name: res/drawable-mdpi-v4/item_plate_armor.png
+SHA1-Digest: vczL8W6PfkxQRT+ehAIJabJSfqA=
+
+Name: res/drawable-xxxhdpi-v4/nend_ad_full_board_info.png
+SHA1-Digest: iJrnX6Qp/Np1G2/Rw+zS/P0AxCQ=
+
+Name: res/drawable-hdpi-v4/thumb_monster_071_spector.png
+SHA1-Digest: VY3xmLkDvwX/nCo5PN3/6v7Z0Qk=
+
+Name: res/drawable-mdpi-v4/flog_icon_attack_miss.png
+SHA1-Digest: UBUJmIMsVOCBiSpUZRSax3S08yY=
+
+Name: res/drawable-mdpi-v4/monster_057r_carrion_crawler.png
+SHA1-Digest: CDhNCnhNjk8WYninusko5HdmgO8=
+
+Name: res/drawable-hdpi-v4/thumb_monster_192r_flesh_golem.png
+SHA1-Digest: alYchPTWdh2DJDRJRdE+2wLGTG8=
+
+Name: res/drawable-mdpi-v4/monster_114_opinincus.png
+SHA1-Digest: 8Vxa25UfwUEYq3MsQTg5iGGJXqU=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: iBW9ZSDS6d8tqgSPebX9gk5a790=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA1-Digest: KGnBrJqzuCOMvN9IqounMWArPOk=
+
+Name: res/drawable-hdpi-v4/thumb_monster_255r_gold_dragon.png
+SHA1-Digest: vjFoSP0lpHeDhkZH9qD5bEA/LJY=
+
+Name: res/drawable-hdpi-v4/char041_actor50.png
+SHA1-Digest: CyhRcJNIrXHpr5lyo9h8hrGeWY0=
+
+Name: res/layout/skill_chart.xml
+SHA1-Digest: ItuqDs/aW25/tj/uC0ANU/ie9Gs=
+
+Name: res/drawable-hdpi-v4/thumb_monster_201r_carbuncle.png
+SHA1-Digest: wTbAb0I0mSu5o7ehgWv0bvWe1TE=
+
+Name: res/drawable-hdpi-v4/thumb_monster_260_black_dragon.png
+SHA1-Digest: RGm88TxXYeFSI6OfOkVzjxQIjwI=
+
+Name: res/drawable-hdpi-v4/char157_actor97.png
+SHA1-Digest: MVvC8aOta4i8IGWokDcb089XmGA=
+
+Name: res/drawable-hdpi-v4/char025_actor26.png
+SHA1-Digest: fdW1ffCA3D6tVwPVanCFFR80kqk=
+
+Name: res/drawable-mdpi-v4/monster_256_red_dragon.png
+SHA1-Digest: RKYMXMkfm1so/gao3phRX7cfuAQ=
+
+Name: res/drawable-hdpi-v4/thumb_monster_073r_medusa.png
+SHA1-Digest: XPoCau/L1IXaRAKXCj41u3JTM9Y=
+
+Name: res/drawable-mdpi-v4/item_durandal.png
+SHA1-Digest: t72z+xtnnSY/D46DAz/S/91bqcY=
+
+Name: res/drawable-hdpi-v4/char066_actor86.png
+SHA1-Digest: KKvEzctfUhllq/A0W7R2t/0rhWw=
+
+Name: META-INF/androidx.legacy_legacy-support-core-utils.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-hdpi-v4/char050_actor66.png
+SHA1-Digest: uNaveRy79m0d872ccDIxdI2Ww/g=
+
+Name: res/drawable-hdpi-v4/char201_actor89.png
+SHA1-Digest: kjAIsgu2UtGgpyU659hw3dWuBTI=
+
+Name: res/drawable/town_map_town_highlighted.xml
+SHA1-Digest: QC9uqSXhYw3G6mG8/a58m62Mxkg=
+
+Name: res/drawable/character_image_view_background.xml
+SHA1-Digest: CBUtEp+3rCMgyEkRrOwLoY2APaQ=
+
+Name: res/drawable-mdpi-v4/monster_110_dark_lord.png
+SHA1-Digest: CN4/wtDWKhnTHYx10mvr6/sOVTA=
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA1-Digest: oonBzwH0u1H0IwZRGpkTuNT4Iw4=
+
+Name: res/drawable-mdpi-v4/monster_251_green_dragon.png
+SHA1-Digest: nUQC/msppAOfXfhhAFyyznx2IR8=
+
+Name: res/layout/catalog.xml
+SHA1-Digest: VGXiLogUb67d2pOl1zpvdAzJFo0=
+
+Name: res/drawable-hdpi-v4/char067_actor9.png
+SHA1-Digest: kV1BnpkXPHTLXbZcp5UhH/sZ1Es=
+
+Name: res/drawable-mdpi-v4/item_naginata.png
+SHA1-Digest: Ze43zWbORqJ9QmyBpUnFL6NcneQ=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: eSZdasP5yJI806yiVJ0XseFpD8M=
+
+Name: res/drawable-hdpi-v4/thumb_monster_196r_wizard.png
+SHA1-Digest: yGF7KgRTLmnjU6iarxaZO7F4y+Y=
+
+Name: res/drawable-hdpi-v4/char024_actor25.png
+SHA1-Digest: /IUgrVH/gFbA/zafWqSiZHlep1w=
+
+Name: res/drawable-hdpi-v4/thumb_monster_251_green_dragon.png
+SHA1-Digest: uiWrDP06Sf2ERa4PzH5PfT46uoU=
+
+Name: res/layout/confirm_adventure_dialog.xml
+SHA1-Digest: uBfwSSN+lKTAuHrrArdtb10C0qo=
+
+Name: res/drawable-hdpi-v4/thumb_monster_138_fire_giant.png
+SHA1-Digest: H3J+xITfO+75DxMBAbM4jYiXnBo=
+
+Name: res/drawable-hdpi-v4/char072_actor139.png
+SHA1-Digest: +r93JdyamMN3X7vMuYM6vj9/UX4=
+
+Name: res/drawable-hdpi-v4/thumb_monster_225_giant_crab.png
+SHA1-Digest: rX8MtnG77NveKtHfYfIcc1pbV0Y=
+
+Name: res/drawable-hdpi-v4/thumb_monster_063_bandit.png
+SHA1-Digest: cKuYHOsvOmJaEvSKjwYZ8azhPDA=
+
+Name: META-INF/androidx.interpolator_interpolator.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-mdpi-v4/ic_launcher_lq2.png
+SHA1-Digest: CTozl2r4XGvMuYA8TP90LtgaJsk=
+
+Name: res/drawable-mdpi-v4/flog_icon_level_up.png
+SHA1-Digest: 9iO9wUa5C3+fXPC9hWocIxKgA+Y=
+
+Name: res/drawable-xxhdpi-v4/nend_ad_video_cta.png
+SHA1-Digest: +Wg2oMCiJB1uiwTSvcACkZ+pGgg=
+
+Name: res/drawable-mdpi-v4/monster_024_water_elemental.png
+SHA1-Digest: X5BP5lpEPc/MHIqlMJvpceaRp8k=
+
+Name: res/drawable-hdpi-v4/npc_priest_actor60.png
+SHA1-Digest: tHKMAkCk297Xbfzj8jrzy1AFGs8=
+
+Name: META-INF/androidx.percentlayout_percentlayout.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-mdpi-v4/monster_218r_gokenin.png
+SHA1-Digest: JGUJgvmn8/CimI2ULO75D0JgGKE=
+
+Name: res/drawable-mdpi-v4/alog_icon_enter_floor.png
+SHA1-Digest: Xfz8kpj3hFA/vrOsOvIB7AOopT8=
+
+Name: res/drawable-mdpi-v4/monster_197r_basilisk.png
+SHA1-Digest: DXtI2yP6UwuETyhWQUtSHRKhO4Y=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: qf8Bo3OrZFOkS8OQT2FTwy3VSA8=
+
+Name: res/drawable-hdpi-v4/char163_actor142.png
+SHA1-Digest: 6dL7/47UOSwATUMGkgwnxdz9paA=
+
+Name: res/drawable-hdpi-v4/char127_actor15.png
+SHA1-Digest: veJpovPC+x+hVpAP0yr+fvNsF0U=
+
+Name: res/drawable-mdpi-v4/flog_icon_add_attack.png
+SHA1-Digest: nnNjW75JFmqIQtUDBxGKtkI+iHM=
+
+Name: res/drawable-mdpi-v4/flog_icon_defense.png
+SHA1-Digest: n2rD+V3MNXZZouE9CGwUPYrPfT4=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: IBl/5yio3MWoTuYRP2oDp0YmTQc=
+
+Name: res/drawable-hdpi-v4/char018_actor17.png
+SHA1-Digest: 3AsgEyKYeK03VtNQO022iqCA5ew=
+
+Name: META-INF/android.arch.lifecycle_livedata-core.version
+SHA1-Digest: OxxKFJcpzAROGjnfMbNijNv1+JU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_275r_cavebear.png
+SHA1-Digest: WQbGAelsEVZB/3fuzbMA/HHP6dg=
+
+Name: res/drawable/nend_ad_video_toggle_volume.xml
+SHA1-Digest: wepGORVBzNK4glj0cgyftSQiUlg=
+
+Name: res/drawable-hdpi-v4/thumb_monster_189r_owlbear.png
+SHA1-Digest: P1Yfn0Yf7/GzGnR+YbpCRj8hM1E=
+
+Name: res/drawable-hdpi-v4/thumb_monster_106_mage.png
+SHA1-Digest: 6gnp/v0nldXISnUmRhoKrESjbRE=
+
+Name: META-INF/androidx.media_media.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-mdpi-v4/monster_120r_mizuchi.png
+SHA1-Digest: g+PQMgxfJuauAm+QO600CDo2pAE=
+
+Name: res/drawable-mdpi-v4/alog_icon_enter_block_monster.png
+SHA1-Digest: 9kq4BZ/5lTIfV/2qLkwlQTYkC5Q=
+
+Name: res/drawable-hdpi-v4/thumb_monster_170r2_humbaba.png
+SHA1-Digest: OXV3MllkPjZvnG23uvQTsOCuXWc=
+
+Name: res/drawable-mdpi-v4/item_potion.png
+SHA1-Digest: ppuCpGxWMWDHLsd5w8KKcFQVXCo=
+
+Name: res/drawable-hdpi-v4/thumb_monster_218r_gokenin.png
+SHA1-Digest: gPvOsc0CEWRD4e8GO8IpPKmIT5I=
+
+Name: res/drawable-mdpi-v4/ic_status_lq2.png
+SHA1-Digest: D3t5sG2fHAia9unsUd8Ns8qvXOo=
+
+Name: res/drawable-hdpi-v4/char150_actor83.png
+SHA1-Digest: NeVNOvr89DtqQ4P6ziskhDdLCj4=
+
+Name: res/drawable-mdpi-v4/item_monsters_jewel.png
+SHA1-Digest: NalvwrL0pZISTWS+LktwPp5qtAs=
+
+Name: res/drawable-hdpi-v4/thumb_monster_065_mimic.png
+SHA1-Digest: /RDIapChWdHB6xeLl+cpboyKUbc=
+
+Name: res/drawable-mdpi-v4/monster_068_constricter.png
+SHA1-Digest: iBluLdI327vi35GaHEsMZcVQZZg=
+
+Name: res/drawable-hdpi-v4/thumb_monster_127r_wood_golem.png
+SHA1-Digest: 4cRnykuQc1SqI3w31ZXtCuq7lIM=
+
+Name: res/layout/about_dialog.xml
+SHA1-Digest: nOO4pqSCPrRC2XpNg3X05SmHbGI=
+
+Name: res/drawable-mdpi-v4/item_ring_silver.png
+SHA1-Digest: TTCZE28O7Xzy0tZKsuIuhLfyHe4=
+
+Name: res/drawable-hdpi-v4/thumb_monster_101_giant_scorpion.png
+SHA1-Digest: 7r5SJUU4hb/XUSN7uM88fRuZ+oI=
+
+Name: res/drawable-mdpi-v4/item_ring_double.png
+SHA1-Digest: +L5rAR5P8Wpp3fjAobnTgsPCPBw=
+
+Name: res/layout/story.xml
+SHA1-Digest: xqZFlWHdkczoi2dZEpPlJecA0i0=
+
+Name: res/drawable-xhdpi-v4/arrow_migishita.9.png
+SHA1-Digest: cNsHUfJgIYTnnOc16tSHAzvnA3Q=
+
+Name: res/drawable-mdpi-v4/monster_106_mage.png
+SHA1-Digest: c3Vo8Zl6AiIj8wmMNplp50JOXRk=
+
+Name: res/drawable-mdpi-v4/alog_icon_encounter_win_monster_block.png
+SHA1-Digest: 4fF4NelFh3r+hf6/HCnlAd4+QPM=
+
+Name: res/drawable-mdpi-v4/monster_208_griffon.png
+SHA1-Digest: BlXxy4gjhP9P5AyKYppCbJm9EJ4=
+
+Name: META-INF/androidx.browser_browser.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-hdpi-v4/char002_actor105.png
+SHA1-Digest: FBDyZ4oK6Hb5Pe59uDjZBSWV3M0=
+
+Name: res/drawable-mdpi-v4/monster_228_behemoth.png
+SHA1-Digest: uiLE4ZPOpwzB3dN1rT7cQIcm1Nk=
+
+Name: res/layout/tavern.xml
+SHA1-Digest: JrH4jvybW8WmWGr1Za3dpVy3WXw=
+
+Name: res/drawable-hdpi-v4/thumb_monster_264_otyugh.png
+SHA1-Digest: KuleVDIopQ+8NImMZ22pmzebysw=
+
+Name: res/drawable-mdpi-v4/item_ogre_killer.png
+SHA1-Digest: nJSVIGF4Y1TI1PVyfndQgSg9sjw=
+
+Name: res/drawable-xxxhdpi-v4/nend_ad_video_mute_off.png
+SHA1-Digest: hGSNEY1E5Ryt6OVDsRVJd+qYE7A=
+
+Name: resources.arsc
+SHA1-Digest: g5+juNABUQ6g2/SdXcI96sgtFnY=
+
+Name: res/layout/list_item_message.xml
+SHA1-Digest: 9DH3dkuxi55rUe7Ak542GxMlxIA=
+
+Name: res/drawable-mdpi-v4/monster_156_kobold.png
+SHA1-Digest: oZgDXwo+LSDXuKcmAq00U1BLCTs=
+
+Name: res/drawable-mdpi-v4/item_ring_ruby.png
+SHA1-Digest: El7nLV/A5Rd3uOvcNfwOr+PhHrw=
+
+Name: res/drawable-mdpi-v4/alog_icon_rest.png
+SHA1-Digest: s6fEYXfI61XkYUjpUPtgV8m6s4c=
+
+Name: res/drawable-mdpi-v4/item_giant_club.png
+SHA1-Digest: +0632FJHyzrtF8YobhpdSGLOj6c=
+
+Name: res/drawable-mdpi-v4/monster_101_giant_scorpion.png
+SHA1-Digest: FL2uHerZVhq40uvlkgcVCvBC3IM=
+
+Name: res/drawable-hdpi-v4/char012_actor129.png
+SHA1-Digest: nBGZ/Y6R5ZwAanhDEOb3ejzzL3o=
+
+Name: res/drawable-hdpi-v4/char032_actor39.png
+SHA1-Digest: xpQ/RkSBeYbGKsp/n3ew7sOZP+o=
+
+Name: res/drawable-mdpi-v4/monster_139_cyclops.png
+SHA1-Digest: 9cVJUW2wGwKi9XY3oFPCzKXQBmo=
+
+Name: res/layout/advanced_tactics_making.xml
+SHA1-Digest: PaDZYayfalqLRHXBAI64oJB1/5k=
+
+Name: res/drawable-hdpi-v4/thumb_monster_191_swords_man.png
+SHA1-Digest: u9UFt5TMQ/jtUCpN+8zMOpDCilY=
+
+Name: res/drawable-hdpi-v4/char203_actor51.png
+SHA1-Digest: vJ11Hhxoupda0eheDg0wByXYG0g=
+
+Name: res/drawable-hdpi-v4/char116_actor121.png
+SHA1-Digest: E/nuiW0cX62DDx3mZNOPAylD51g=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: LEqBcQPT3nznWQ6msA6vQTjEk1U=
+
+Name: res/drawable-mdpi-v4/item_dragon_scale.png
+SHA1-Digest: NBDS3BolTUJhZIQHLMr/gywR9RM=
+
+Name: play-services-ads-base.properties
+SHA1-Digest: GeSOXwBaTqRGgTX6bTy+rqZOUI4=
+
+Name: res/layout/advanced_tactics_detail_dialog.xml
+SHA1-Digest: OZQIlSdUMuuixJM4cyyLWla2YaA=
+
+Name: res/drawable-hdpi-v4/char112_actor111.png
+SHA1-Digest: gOdYzjbrVqwbTpimQFSlgKFAqrA=
+
+Name: res/drawable-mdpi-v4/item_falchion.png
+SHA1-Digest: vzC52wznY9St64pJtlIRKk8BJkE=
+
+Name: res/layout/inn_character.xml
+SHA1-Digest: aZOkC+vBo90YdxAaWTgfAq4rpTw=
+
+Name: res/drawable-hdpi-v4/char048_actor63.png
+SHA1-Digest: JlYZBtoI7JdFm5leTZcr54C1RBU=
+
+Name: res/layout/inn.xml
+SHA1-Digest: aKNpf/kqZnGEsnt3uy75LIDXA88=
+
+Name: res/drawable-mdpi-v4/item_ring_gold.png
+SHA1-Digest: IlTDnfTkBOKCvBQlhxFlXlkRdf0=
+
+Name: res/drawable-hdpi-v4/char043_actor54.png
+SHA1-Digest: obhgiiipUIgzw80LwK55XmFI9A4=
+
+Name: play-services-ads.properties
+SHA1-Digest: 3vt2o+iVXAIb1siQSyszRqW4mbA=
+
+Name: res/drawable-mdpi-v4/item_elven_bow.png
+SHA1-Digest: 4itu8UvT79ajIiNDM6rU1d7Cf18=
+
+Name: res/drawable-xhdpi-v4/story2.jpg
+SHA1-Digest: WSvNmvg20eYkca+GY88Wh7TrThg=
+
+Name: res/drawable-hdpi-v4/thumb_monster_071r_wraith.png
+SHA1-Digest: tnlQzWpc8cddcwLgF8zIC5CZBzo=
+
+Name: res/drawable-mdpi-v4/monster_191_swords_man.png
+SHA1-Digest: BzBHZBa1Mu0btC9O4+zQpe2Z07E=
+
+Name: res/drawable-hdpi-v4/npc_dwarf_actor119.png
+SHA1-Digest: a4IgDdC5xzBBXiyF8z7Cbbs4vEc=
+
+Name: res/layout-v17/notification_template_big_media_narrow_custom.xml
+SHA1-Digest: UfXN2+HSbzZ4k0hmnJjpcgDRVLk=
+
+Name: res/drawable-hdpi-v4/thumb_monster_036_giant_lizard.png
+SHA1-Digest: NWHbFolVqtriNy0X/FroxPw5k5M=
+
+Name: META-INF/androidx.cardview_cardview.version
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-mdpi-v4/item_great_sword.png
+SHA1-Digest: if3PZ0/So+Cij/BrRiqMZX33Zio=
+
+Name: res/drawable/list_item_background_log_info.xml
+SHA1-Digest: ZVT1O+eLAgff+GsQmMAP4vVjUaI=
+
+Name: res/drawable-hdpi-v4/char016_actor136.png
+SHA1-Digest: xDUa1X8M90tpO3+ar9TZuzouXhE=
+
+Name: res/layout/character_making.xml
+SHA1-Digest: DK4F25BM7U0ieQFdQEDrvYwEJis=
+
+Name: res/drawable-mdpi-v4/monster_111r_vorpal_bunny.png
+SHA1-Digest: iEAJZ6c2tHji5hq2Kyw59G1TPPU=
+
+Name: res/drawable-hdpi-v4/char015_actor135.png
+SHA1-Digest: 6kwhvNVHKreOh0Q2aWQcRb3U1dM=
+
+Name: res/drawable-hdpi-v4/char138_actor58.png
+SHA1-Digest: o4xtUJ7ixKEIxwKzMD+0qrtJEjE=
+
+Name: res/drawable-mdpi-v4/item_dagger.png
+SHA1-Digest: v4d3N2CjanPV6j+gB8hoEpnlupo=
+
+Name: res/layout/detailed_def_item_dialog.xml
+SHA1-Digest: 4aicUBeg1TzwYzr/IMG916MLDHs=
+
+Name: res/drawable-hdpi-v4/thumb_monster_249_were_wolf.png
+SHA1-Digest: oE75Lv6pqEkDC8x3LvRTq0BQ6R0=
+
+Name: res/drawable-hdpi-v4/thumb_monster_153_dancing_sword.png
+SHA1-Digest: +ZwSlWMQ18pC3/LJL72OTlbDDko=
+
+Name: res/drawable-xhdpi-v4/nend_ad_full_board_info.png
+SHA1-Digest: KAn3A52aAj+5t0riKVk0iVqMoTI=
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: z0oai5b1MK3J/UNjdCA5ECdf2qg=
+
+Name: res/drawable-hdpi-v4/char005_actor115.png
+SHA1-Digest: Y24BmFlIdy7HgzzGRy/h/bljrfM=
+
+Name: res/drawable-mdpi-v4/item_large_shield.png
+SHA1-Digest: D5TXFJaIQtd54vhcv5TrtUi8/jU=
+
+Name: res/drawable-mdpi-v4/item_anduril.png
+SHA1-Digest: wD20cVKRc/mGYuUzDPuuKoWkIVc=
+
+Name: res/drawable-mdpi-v4/alog_icon_magic.png
+SHA1-Digest: T00qmLn13Mghn2dIzfC5riHueBo=
+
+Name: res/drawable-mdpi-v4/item_grayswandir.png
+SHA1-Digest: DKNVCnHKfJCVx7zVyJHaZRQ5Th8=
+
+Name: META-INF/androidx.localbroadcastmanager_localbroadcastmanager.ve
+ rsion
+SHA1-Digest: xTi2bHEQyjoCjM/kItDx+iAKmTU=
+
+Name: res/drawable-mdpi-v4/item_rapier.png
+SHA1-Digest: wLLk0HZyzoMf7jSX/WKBnbhKUWw=
+
+Name: res/drawable-xhdpi-v4/arrow_ueshitamigi.9.png
+SHA1-Digest: T2Zpfwg9ifNV1eEn7i9dHfM9i1c=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: 4j+L3Jzr2U70TU9dUenWhtYe/lU=
+
+Name: play-services-ads-identifier.properties
+SHA1-Digest: gnXkzhcfw9RuzCgXluNWR1PoUsc=
+
+Name: res/drawable-mdpi-v4/monster_148r_shade.png
+SHA1-Digest: +3R3FZBd4gtNns2ICWyTI6erMq4=
+
+Name: res/drawable-mdpi-v4/alog_icon_return.png
+SHA1-Digest: 0iE7mUopoWiVXM3G0Uw3faUGbOw=
+
+Name: res/drawable-mdpi-v4/item_dwarven_anvil.png
+SHA1-Digest: hcW7Cf2M53MFq0ZcSdD0ZyNuYKU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_025_giant_amoeba.png
+SHA1-Digest: uoOFwJHe2R5s+d1eWjQlOI98QJc=
+
+Name: res/drawable-hdpi-v4/char031_actor38.png
+SHA1-Digest: f1aoGXpBsdCZR6Jj1ZI2cSkdzo4=
+
+Name: res/drawable-mdpi-v4/icon_board.png
+SHA1-Digest: qnKP35PagE7O1ktwY7e4YiopaJk=
+
+Name: res/drawable-mdpi-v4/monster_002_slime.png
+SHA1-Digest: WGy2Db/S58sEdUO78ORl7Sl3bhI=
+
+Name: res/drawable-mdpi-v4/monster_026_efreeti.png
+SHA1-Digest: obKjCnBSFlWxZbNNYqjBgMiiFfc=
+
+Name: res/drawable-mdpi-v4/arrow_migishita.9.png
+SHA1-Digest: aVY+73wNcBCGgn2KzVllXT84+zs=
+
+Name: res/drawable-hdpi-v4/char160_actor137.png
+SHA1-Digest: BvEF573zOy1nD6NpYirSqlPJUdY=
+
+Name: res/drawable-mdpi-v4/monster_142_ghoul.png
+SHA1-Digest: SmNIVqbcwqFtqYKgai2rHHEQZvo=
+
+Name: res/drawable-hdpi-v4/char152_actor87_verb.png
+SHA1-Digest: //z9DS+mr/PWMnUbgbco2GXvCls=
+
+Name: res/drawable-mdpi-v4/item_excalibur.png
+SHA1-Digest: IN4aFVJ6087yNvmuzjo5NO1OVR8=
+
+Name: res/drawable-hdpi-v4/thumb_monster_272r_catblepas.png
+SHA1-Digest: cn5Dx3DMjjhm21BSc9VSwaZHoTs=
+
+Name: res/drawable-mdpi-v4/item_sling.png
+SHA1-Digest: 3RodOzBML6wbx7LJ6aPX78rH9cU=
+
+Name: res/drawable-mdpi-v4/flog_icon_event.png
+SHA1-Digest: 68n0600W6k3uUKFe66gJGIYHhHk=
+
+Name: res/drawable-mdpi-v4/item_short_bow.png
+SHA1-Digest: 4sK7+j9HDCKlCgAnk7K9G1UeOhU=
+
+Name: res/drawable-hdpi-v4/thumb_monster_259_wyvern.png
+SHA1-Digest: FLeb/aWF/wY8lGfMHEBIVrEiQY0=
+
